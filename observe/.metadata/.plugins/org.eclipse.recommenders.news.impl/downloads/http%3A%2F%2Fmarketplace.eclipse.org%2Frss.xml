@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Groovy Development Tools</title>
+    <link>http://marketplace.eclipse.org/content/groovy-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-09-29 10:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven (m2e) support for the &lt;a href=&quot;http://groovy-lang.org&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
+&lt;p&gt;The GDT requires the &lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-java-development-tools-0&quot; rel=&quot;nofollow&quot;&gt;Eclipse Java Development Tools&lt;/a&gt; (JDT) as it builds upon Java/JVM support, including Java interoperability (bi-directional dependencies via joint compilation). If your Eclipse flavor does not include JDT, you must install it first.&lt;/p&gt;
+&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, then please consider &lt;a href=&quot;https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse&quot; rel=&quot;nofollow&quot;&gt;Groovy-Grails Tools Suite&lt;/a&gt; or &lt;a href=&quot;https://github.com/spring-projects/grails-ide&quot; rel=&quot;nofollow&quot;&gt;spring-projects/grails-ide&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
+ <dc:creator>aclement</dc:creator>
+ <guid isPermaLink="false">321859 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>cmake4eclipse</title>
+    <link>http://marketplace.eclipse.org/content/cmake4eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-09-29 09:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%2215knots%22&quot;&gt;15knots&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2015-05-01 12:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mweber0xe/listings&quot; title=&quot;Martin Weber&quot;&gt;Martin Weber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This Eclipse plugin automatically generates build-scripts for the Eclipse CDT managed build system from CMake scripts and runs the build.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Automatic generation of build scripts. No need to manually invoke &lt;code&gt;cmake&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Aims to make Eclipse projects cross-platform compatible without the need to change platform-specifc project settings due to automatic platform detection.&lt;/li&gt;
+&lt;li&gt;Takes your &lt;em&gt;CMakeLists.txt&lt;/em&gt; as the source of truth.
+&lt;ul&gt;&lt;li&gt;Auto-detects the actual build tool to invoke: make, &lt;code&gt;&lt;a href=&quot;https://github.com/ninja-build/ninja&quot; rel=&quot;nofollow&quot;&gt;ninja&lt;/a&gt;&lt;/code&gt;, nmake, MinGW make, MSYS make, ...&lt;/li&gt;
+&lt;li&gt;Provides a Language Settings Provider that can feed include paths and pre-processor symbols from cmake to the CDT-Indexer.&lt;/li&gt;
+&lt;li&gt;Its compiler-built-ins provider retrieves macros and include paths from the actual compiler, as far as the compiler supports that (including &lt;code&gt;nvcc&lt;/code&gt; CUDA complier).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For instructions inside the Eclipse workbench, go to Help:Help Contents, then open the &#039;Cmake4eclipse User Guide&#039; node.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/15knots/cmake4eclipse&quot; rel=&quot;nofollow&quot;&gt;Project site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://groups.google.com/d/forum/cmake4eclipse-users&quot; rel=&quot;nofollow&quot;&gt;Mailing-list&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 01 May 2015 16:21:44 +0000</pubDate>
+ <dc:creator>mweber0xe</dc:creator>
+ <guid isPermaLink="false">2318334 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/cmake4eclipse#comments</comments>
+  </item>
+  <item>
+    <title>CMake Editor</title>
+    <link>http://marketplace.eclipse.org/content/cmake-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-09-29 07:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%2215knots%22&quot;&gt;15knots&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-07-19 15:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mweber0xe/listings&quot; title=&quot;Martin Weber&quot;&gt;Martin Weber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The plug-in provides:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Syntax highlighting for CMake defined variables, User defined Variables, Properties and Reserved Words&lt;/li&gt;
+&lt;li&gt;Basic hover support to show brief description of command or variable being hovered over.&lt;/li&gt;
+&lt;li&gt;Support for code templates to insert often used cmake code.&lt;/li&gt;
+&lt;li&gt;Preference Panel to set custom syntax highlighting colors.&lt;/li&gt;
+&lt;li&gt;Preference Panel to define custom code templates.&lt;/li&gt;
+&lt;li&gt;Keystroke short cuts to comment/uncomment blocks of code.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Browse &lt;a href=&quot;https://github.com/15knots/cmakeed&quot; rel=&quot;nofollow&quot;&gt;Project Site&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Suggested plugins&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;cmake4eclipse&quot; rel=&quot;nofollow&quot;&gt;cmake4eclipse&lt;/a&gt;, if your project uses cmake to build and the eclipse project is build with CDT&#039;s managed build system.&lt;/p&gt;
+&lt;h3&gt;Installation trouble?&lt;/h3&gt;
+&lt;p&gt;If You get a &lt;code&gt;javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure&lt;/code&gt;, please check&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com/a/38264878&quot; rel=&quot;nofollow&quot;&gt;stack overflow&lt;/a&gt; and/or &lt;a href=&quot;https://github.com/gnuarmeclipse/plug-ins/issues/171#issuecomment-275907612&quot; rel=&quot;nofollow&quot;&gt;github&lt;/a&gt; to resolve.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 19 Jul 2016 19:29:45 +0000</pubDate>
+ <dc:creator>mweber0xe</dc:creator>
+ <guid isPermaLink="false">2983824 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/cmake-editor#comments</comments>
+  </item>
+  <item>
+    <title>TextEditor Grep</title>
+    <link>http://marketplace.eclipse.org/content/texteditor-grep</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-09-29 06:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Fabrizio%20Iannetti%22&quot;&gt;Fabrizio Iannetti&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2011-04-09 11:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/fiannetti/listings&quot; title=&quot;Fabrizio Iannetti&quot;&gt;Fabrizio Iannetti&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin contributes a view that allows to enter a regular expression, used to produce a grep-like output (shown in the view) of the current text editor. The view shows the original line numbers and when the cursor is moved in the grep output, the cursor in the text editor is moved to the matching line. Any editor that subclasses the AbstractTextEditor should be supported. The current version can optionally link to the current editor (press the double link icon in the view), in this mode the grep is refreshed whenever an editor is activated.&lt;/p&gt;
+&lt;h2&gt;Key bindings:&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;when in an editor press CTRL+ALT+G (CMD+ALT+G) to open/activate the grep view, if text is selected, it is copied in the grep expression box and it is preselected&lt;/li&gt;
+&lt;li&gt;TAB to move from grep result to grep text box and vice versa&lt;/li&gt;
+&lt;li&gt;CTRL+F in grep result opens an incremental search box&lt;/li&gt;
+&lt;li&gt;Ctrl+Space activates completion in the grep text box&lt;/li&gt;
+&lt;li&gt;Enter/Mouse double click show the part where the grep was done inside the search box:&lt;/li&gt;
+&lt;li&gt;ESC closes the find bar, arrow down searches forwards, arrow up backwards&lt;/li&gt;
+&lt;li&gt;search is always case insensitive and incremental (find as you type)&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;History:&lt;/h2&gt;
+&lt;p&gt;1.0.1 : fixed highlight of matches in grep view.&lt;/p&gt;
+&lt;p&gt;1.0.2 : added 2 options (selectable via the view&#039;s menu):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;case sensitivity during grep&lt;/li&gt;
+&lt;li&gt;show multiple matches on a line, the grep operation normally finds only the first match on a line, if this option is set, the regular expression is searched again on the same line&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;1.1.0 : added simple find bar in grep view:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;can be activated via the edit-&amp;gt;find menu or ctrl+F (implements standard find)&lt;/li&gt;
+&lt;li&gt;opens a firefox-like search bar at the bottom of the view&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;1.2.0 : added history for grep expressions:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;the grep expression box is now a combo listing the previously used ones&lt;/li&gt;
+&lt;li&gt;Edit history menu option in the view drop down menu to edit the history&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;1.2.1 : much faster for long files with many matches: changed Document implementation.&lt;/p&gt;
+&lt;p&gt;1.2.2 : text selection copied to grep expression box and preselected&lt;/p&gt;
+&lt;p&gt;2.0.0 : Color chooser for highlight color&lt;/p&gt;
+&lt;p&gt;2.1.0: completion and more key bindings, license is now EPL:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Completion is now available in the grep text box&lt;/li&gt;
+&lt;li&gt;Enter/Mouse double click show the part where the grep was done&lt;/li&gt;
+&lt;li&gt;Chooser for highligh color moved to view drop-down menu&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;3.0.0&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Grep is performed outside the UI thread, so for large documents the UI does not freeze&lt;/li&gt;
+&lt;li&gt;Context menu with options to:
+&lt;ul&gt;&lt;li&gt;copy current selection&lt;/li&gt;
+&lt;li&gt;copy original text that corresponds to the selected section&lt;/li&gt;
+&lt;li&gt;previous two operations, but the text is directly copied into a new editor&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 09 Apr 2011 15:17:59 +0000</pubDate>
+ <dc:creator>fiannetti</dc:creator>
+ <guid isPermaLink="false">44303 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/texteditor-grep#comments</comments>
+  </item>
+  <item>
+    <title>SQL DAL Maker</title>
+    <link>http://marketplace.eclipse.org/content/sql-dal-maker</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sqldalmaker_24.png&quot; width=&quot;24&quot; height=&quot;24&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2019-09-28 05:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22.%22&quot;&gt;.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-08-02 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pmisingnameeok/listings&quot; title=&quot;panedrone Mising name&quot;&gt;panedrone Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SQL DAL Maker is a generator of DTO and DAO classes to access relational databases. Target programming languages: PHP, Java, C++, Python, Ruby. To generate the class, you declare it in XML meta-program.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/panedrone/sqldalmaker&quot; rel=&quot;nofollow&quot;&gt;https://github.com/panedrone/sqldalmaker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Starting from plug-in v.1.90, you can generate and run PHP, Java, and Python code to call stored procedures and functions. Review updated implementations of DataStore: 1) PHP + PDO, 2) Java + Apache DbUtils, 3) Python + MySQL Connector/Python. Tested with MySQL, Oracle DB, and PostgreSQL. Visit project Website for details.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 02 Aug 2011 22:05:21 +0000</pubDate>
+ <dc:creator>pmisingnameeok</dc:creator>
+ <guid isPermaLink="false">97312 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sql-dal-maker#comments</comments>
+  </item>
+  <item>
+    <title>Discord Rich Presence for Eclipse IDE</title>
+    <link>http://marketplace.eclipse.org/content/discord-rich-presence-eclipse-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2019-09-28 05:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Emmanuel%20Chebbi%22&quot;&gt;Emmanuel Chebbi&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2018-08-22 20:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/echebbi/listings&quot; title=&quot;Emmanuel Chebbi&quot;&gt;Emmanuel Chebbi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Add Discord Rich Presence to your Eclipse IDE:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Display the active file, the corresponding project and the language used in Discord.&lt;/li&gt;
+&lt;li&gt;Customizable global and per-project settings to select the information shown in Discord&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Please submit any bug or feature request on GitHub:  &lt;a href=&quot;https://github.com/echebbi/eclipse-discord-integration/issues&quot; rel=&quot;nofollow&quot;&gt;https://github.com/echebbi/eclipse-discord-integration/issues&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 23 Aug 2018 00:36:27 +0000</pubDate>
+ <dc:creator>echebbi</dc:creator>
+ <guid isPermaLink="false">4240174 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/discord-rich-presence-eclipse-ide#comments</comments>
+  </item>
+  <item>
+    <title>Protector4J</title>
+    <link>http://marketplace.eclipse.org/content/protector4j</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/android-chrome-512x512.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2019-09-28 01:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VLINX%20Software%22&quot;&gt;VLINX Software&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-27 05:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ylin0gf/listings&quot; title=&quot;Yongfa Lin&quot;&gt;Yongfa Lin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A new solution to Protect Java App from Decompilation by encrypting the classes.&lt;/p&gt;
+&lt;p&gt;Support JavaSE App, Tomcat Web App, Spring Boot App, GlassFish App, Payara App and Java 8, Java 11 Environment.&lt;/p&gt;
+&lt;p&gt;Guide of installation: &lt;a href=&quot;https://doc.protector4j.com/eclipse-plugin&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/eclipse-plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Documention: &lt;a href=&quot;https://doc.protector4j.com/get-started&quot; rel=&quot;nofollow&quot;&gt;https://doc.protector4j.com/get-started&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For further information: &lt;a href=&quot;https://protector4j.com&quot; rel=&quot;nofollow&quot;&gt;https://protector4j.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 27 Jun 2017 09:41:40 +0000</pubDate>
+ <dc:creator>ylin0gf</dc:creator>
+ <guid isPermaLink="false">3513853 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/protector4j#comments</comments>
+  </item>
+  <item>
+    <title>JavadocDecorator</title>
+    <link>http://marketplace.eclipse.org/content/javadocdecorator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/JavadocDecorator2.gif&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-09-27 15:50&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22imkrmgn%22&quot;&gt;imkrmgn&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2019-09-15 10:01&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ytakemori/listings&quot; title=&quot;Yoshiyuki Takemori&quot;&gt;Yoshiyuki Takemori&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is very simple eclipse plug-in Decorate Java elements with Javadoc headings or method return values.&lt;br /&gt;
+Just installing it will help you get a quick overview of the class library.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 15 Sep 2019 14:01:20 +0000</pubDate>
+ <dc:creator>ytakemori</dc:creator>
+ <guid isPermaLink="false">4799014 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/javadocdecorator#comments</comments>
+  </item>
+  <item>
+    <title>Wild Web Developer: HTML, CSS, JavaScript, TypeScript,  Node.js, Angular, JSON, YAML (+Kubernetes), XML</title>
+    <link>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wild-web-developer-marketplace-logo.png&quot; width=&quot;110&quot; height=&quot;78&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-09-27 03:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Wild%20Web%20Developers%20Contributors%22&quot;&gt;Eclipse Wild Web Developers Contributors&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-13 10:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mistria/listings&quot; title=&quot;Mickael Istria&quot;&gt;Mickael Istria&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Edit HTML, CSS, JavaScript, TypeScript (+Angular), JSON (+schema), XML (+schema), YAML (+schema+Kubernetes)&lt;/strong&gt; and &lt;strong&gt;debug Node.js and HTML+JS web-apps &lt;/strong&gt;simply and efficiently in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;To see it in action, open the desired file with the &lt;em&gt;Generic Editor&lt;/em&gt; that&#039;s included by default in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;Supported file formats for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;CSS, SCSS, SASS, LESS&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;JavaScript (EcmaScript 2018 - 9th edition)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;TypeScript 3.3&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;JSON&lt;/em&gt; and &lt;em&gt;JSONC&lt;/em&gt; (including schema support)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;YAML&lt;/em&gt; (including schema support)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;XML&lt;/em&gt; (including schema support),&lt;em&gt; XSL, XSD, DTD&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported frameworks (file specialization) for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Angular&lt;/em&gt; (Components in TypeScript files)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kubernetes&lt;/em&gt; (schema built-in when editing YAML)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;React&lt;/em&gt; (JSX, TSX, embedded HTML)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported feature for edition are&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Validation (diagnostics, markers)&lt;/li&gt;
+&lt;li&gt;Code Completion&lt;/li&gt;
+&lt;li&gt;Hover&lt;/li&gt;
+&lt;li&gt;Outline&lt;/li&gt;
+&lt;li&gt;Rename refactoring&lt;/li&gt;
+&lt;li&gt;Jump to declaration&lt;/li&gt;
+&lt;li&gt;Find references&lt;/li&gt;
+&lt;li&gt;Color preview&lt;/li&gt;
+&lt;li&gt;... and other features part of the Language Server Protocol&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported debugging target&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;em&gt;Node.js&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Firefox&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Chromium&lt;/em&gt; and &lt;em&gt;Chrome&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 13 Apr 2017 14:52:25 +0000</pubDate>
+ <dc:creator>mistria</dc:creator>
+ <guid isPermaLink="false">3394048 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml#comments</comments>
+  </item>
+  <item>
+    <title>MetaModelAgent for Papyrus, IBM RSAD/RTE and HCL RTist</title>
+    <link>http://marketplace.eclipse.org/content/metamodelagent-papyrus-ibm-rsadrte-and-hcl-rtist</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/MMA_Eclipse_MarketPlace_Icon.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-09-26 03:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Adocus%20AB%22&quot;&gt;Adocus AB&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2011-05-16 08:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twiman/listings&quot; title=&quot;Thomas Wiman&quot;&gt;Thomas Wiman&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;[&lt;strong&gt;IMPORTANT: &lt;/strong&gt;You need to have Papyrus UML or IBM RSA installed prior to installation of MetaModelAgent. Install button is for Papyrus 4.0 users. Please use update site &lt;strong&gt;&lt;a href=&quot;http://www.metamodelagent.com/update&quot; rel=&quot;nofollow&quot;&gt;http://www.metamodelagent.com/update&lt;/a&gt; &lt;/strong&gt;for IBM RSAD/RSARTE and older versions of Papyrus]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;em&gt;Domain-specific Modeling Language (DSML)&lt;/em&gt; is a modeling language tailored for a very specific and limited domain. A DSML is a combination of visual presentation of entities from the domain as well as a set of rules that defines their behavior. A well-defined DSML should help you to express whatever needed in the specific domain in a correct manner without disturbance from concepts irrelevant for the domain.&lt;/p&gt;
+&lt;p&gt;A &lt;em&gt;UML-based DSML&lt;/em&gt; is a combination of extension and limitation of the Unified Modeling Language (UML) for a specific modeling domain. A UML-based DSML does often, but not always, include UML-profile(s) with stereotypes and additional properties, as well as new graphics (icons and symbols). A UML-based DSML should also contains a set of constraints on how UML and the extensions should be applied in terms of model structure, element and relationship usage, valid property values, diagram placement and diagram content etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MetaModelAgent&lt;/strong&gt; is a modeling tool extension that makes it very simple to define your own DSML and make it available for the modelers through powerful UI additions to your Eclipse-based UML modleing tool. Key features:&lt;/p&gt;
+&lt;ul&gt;&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Agile DSML Configuration&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent makes it very easy to setup your own DSML-specific modeling tool using a UML-based metamodels as a single source of information. There is no need at all for any API-based programmatic extensions.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Accelerated DSML-modeling&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent uses your own metamodel to provide a DSML-specific modeling tool with user-friendly context-sensitive wizards, views, menus and palettes. This makes it possible to develop and validate high-quality DSML-models rapidly without the risk of introducing violations to the DSML.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Powerful analysis capabilities&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent adds several additional views to support advanzed model analysis; table view of element properties, matrix view of relationships, tree view of relationship chains and several chart views for management overviews.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Makes you models available for anyone&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent generates easy-navigable model reports of your DSML-models and DSML-guidelines in HTML-format. This makes your models accessible by anyone through a standard web browser.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Flexible and Scalable&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent supports any kind of UML-based DSML of any size, independent of any development process. MetaModelAgent supports any number of different DSML-guidelines and models simultaneously in the same environment.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;
+&lt;dl&gt;&lt;dt&gt;&lt;strong&gt;Built-in Support for standard UML and UML-RT&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;MetaModelAgent has embedded guidelines for standard UML and UML-RT that make its possible to use MetaModelAgent´s unique UI extensions and analysis capabilities out-of-the-box, without the need of any DSML-definition.&lt;/dd&gt;
+&lt;/dl&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;MetaModelAgent is available as an addition to the following Eclipse-based UML-modeling tools:&lt;/p&gt;
+&lt;ul&gt;&lt;li type=&quot;disc&quot;&gt;Open source Eclipse Papyrus&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;IBM Rational Software Architect Designer (RSAD)&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;IBM Rational Software Architect RealTime Edition (RSARTE)&lt;/li&gt;
+&lt;li type=&quot;disc&quot;&gt;HCL RealTime Software Tooling (HCL RTist)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;MetaModelAgent is installed from the update site: &lt;a href=&quot;http://www.metamodelagent.com/update&quot; rel=&quot;nofollow&quot;&gt;http://www.metamodelagent.com/update&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To use the MetaModelAgent functionality after installation you will have to order a limited FREE license, request a 30-day trial license or purchase an unlimited license. For more information see &lt;a href=&quot;http://www.adocus.com/en/products/metamodelagent&quot; rel=&quot;nofollow&quot;&gt;Adocus company website&lt;/a&gt; and &lt;a href=&quot;http://www.metamodelagent.com&quot; rel=&quot;nofollow&quot;&gt;MetaModelAgent product website&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 16 May 2011 12:36:00 +0000</pubDate>
+ <dc:creator>twiman</dc:creator>
+ <guid isPermaLink="false">53864 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/metamodelagent-papyrus-ibm-rsadrte-and-hcl-rtist#comments</comments>
+  </item>
+  </channel>
+</rss>

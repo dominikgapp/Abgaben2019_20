@@ -1,0 +1,18 @@
+
+public class IObserver {
+
+	private int IntValue;
+	
+	
+	public IObserver (int iv){
+		this.IntValue = iv; 
+	}
+	
+	public int getIntValue() {
+		return IntValue;
+	}
+	
+	public void update(int i) {
+		
+	}
+}

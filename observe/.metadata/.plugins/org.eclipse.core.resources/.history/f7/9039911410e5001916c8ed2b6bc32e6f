@@ -1,0 +1,12 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Schueler s = new Schueler(45); 
+		Observable o = new Observable(); 
+		
+		
+		
+	}	
+}

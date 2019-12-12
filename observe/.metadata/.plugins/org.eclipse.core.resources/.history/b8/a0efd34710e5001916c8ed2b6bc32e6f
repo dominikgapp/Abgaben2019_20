@@ -1,0 +1,7 @@
+
+public interface observer {
+
+	public int getIntValue (); 
+	public void update(int i); 
+	
+}

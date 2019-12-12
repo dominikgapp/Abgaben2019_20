@@ -1,0 +1,23 @@
+
+public class Lehrer implements observer{
+	
+private int IntValue; 
+	
+	
+	
+	public Lehrer(int lv) {
+		this.IntValue = lv; 
+	}
+	
+	@Override
+	public int getIntValue() {
+		return this.IntValue; 
+		
+	}
+	
+	@Override
+	public void update(int i) {
+		System.out.println("value has changed: " +i);	
+	}
+
+}

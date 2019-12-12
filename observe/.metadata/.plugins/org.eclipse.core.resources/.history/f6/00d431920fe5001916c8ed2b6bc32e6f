@@ -1,0 +1,24 @@
+
+public class Schueler implements observer {
+
+	private int IntValue; 
+	
+	
+	
+	public Schueler(int iv) {
+		this.IntValue = iv; 
+	}
+	
+	@Override
+	public int getIntValue() {
+		return this.IntValue; 
+		
+	}
+	
+	@Override
+	public void update(int i) {
+		System.out.println("value has changed: " +i);	
+	}
+	
+	
+}

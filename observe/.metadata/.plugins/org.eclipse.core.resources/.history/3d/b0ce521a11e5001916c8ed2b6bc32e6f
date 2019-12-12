@@ -1,0 +1,13 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Observer student = new Observer(45); 
+		Observable heizung = new Observable(); 
+		Observer teacher = new Observer(65);
+		
+		
+		
+	}	
+}

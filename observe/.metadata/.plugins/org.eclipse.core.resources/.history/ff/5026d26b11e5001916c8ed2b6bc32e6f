@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+
+public class Observable {
+
+	private int value; 
+	private ArrayList<IObserver> observers; 
+	
+	
+	
+	public Observable(){
+		observers = new ArrayList<IObserver>(); 
+	}
+	
+	
+	
+	public void setValue(int value) {
+		this.value = value;
+		notifyallsubscribers(value); 
+	}
+	
+	
+	private void notifyallsubscribers(int value) {
+		
+		for (int i= 0; i<= observers.size(); i++)
+		{
+			if (observers.get(i).getIntValue()-1 <= value) {
+				observers.get(i).update(value);
+			}
+		}
+	}
+	
+	public void subscribe (IObserver io) {
+		observers.add(io); 
+	}
+}

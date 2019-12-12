@@ -1,0 +1,10 @@
+
+public class IObserver {
+
+	private int IntValue;
+	
+	
+	public int getIntValue() {
+		return IntValue;
+	}
+}
