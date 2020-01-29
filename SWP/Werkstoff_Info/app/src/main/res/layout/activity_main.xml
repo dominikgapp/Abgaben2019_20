@@ -20,14 +20,19 @@
         tools:layout_editor_absoluteY="102dp" />
 
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Geben Sie den Fräserdurchmesser ein [mm]"
+        android:padding="15dp"/>
 
     <EditText
         android:id="@+id/durchmesser"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="Durchmesser"/>
+        android:inputType="number"
+        android:text = "0"/>
 
     <TextView
         android:layout_width="match_parent"
@@ -83,7 +88,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:padding="50dp"
+        android:padding="30dp"
         android:hint="Drehzahl" />
 
     <Button

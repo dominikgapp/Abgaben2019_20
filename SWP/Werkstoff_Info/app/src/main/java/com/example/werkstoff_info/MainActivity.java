@@ -3,6 +3,7 @@ package com.example.werkstoff_info;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -66,18 +67,43 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
                 ergebnis.setText("");
                 durchmesserInput.setText("");
+                rostfrei.setChecked(false);
+                guss.setChecked(false);
+                hitze.setChecked(false);
+                hart.setChecked(false);
+                schrup.setChecked(false);
+                schlicht.setChecked(false);
+
             }
         });
 
 
 
 
-        // ab hier neuer Code
+            menu.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parentView, View selectedItemView, int position, long id) {
+                clear.performClick();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parentView) {
+                // your code here
+            }
+
+        });
+
+
 
         hart.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked == true) getValue();
+                if (isChecked == true) {
+                    rostfrei.setChecked(false);
+                    guss.setChecked(false);
+                    hitze.setChecked(false);
+                    getValue();
+                }
                 if (isChecked == false) getValue();
             }
         });
@@ -85,7 +111,12 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         rostfrei.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked == true) getValue();
+                if (isChecked == true){
+                    hart.setChecked(false);
+                    guss.setChecked(false);
+                    hitze.setChecked(false);
+                    getValue();
+                }
                 if (isChecked == false) getValue();
             }
         });
@@ -93,7 +124,12 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         guss.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked == true) getValue();
+                if (isChecked == true) {
+                    rostfrei.setChecked(false);
+                    hart.setChecked(false);
+                    hitze.setChecked(false);
+                    getValue();
+                }
                 if (isChecked == false) getValue();
             }
         });
@@ -102,7 +138,12 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         hitze.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked == true) getValue();
+                if (isChecked == true){
+                    rostfrei.setChecked(false);
+                    guss.setChecked(false);
+                    hart.setChecked(false);
+                    getValue();
+                }
                 if (isChecked == false) getValue();
             }
         });
@@ -111,7 +152,10 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         schlicht.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked == true) getValue();
+                if (isChecked == true){
+                    schrup.setChecked(false);
+                    getValue();
+                }
                 if (isChecked == false) getValue();
             }
         });
@@ -120,7 +164,10 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         schrup.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if (isChecked == true) getValue();
+                if (isChecked == true){
+                    schlicht.setChecked(false);
+                    getValue();
+                }
                 if (isChecked == false) getValue();
             }
         });
@@ -132,194 +179,199 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
     public void getValue(){
 
-        if (menu.getSelectedItem().toString().equals("VHM")) {
+        if(TextUtils.isEmpty(durchmesserInput.getText().toString())){
+            ergebnis.setText("Durchmesser eingeben!");
+        }else {
 
-            if (hart.isChecked()) {
+            if (menu.getSelectedItem().toString().equals("VHM")) {
 
-                double a;
-                a = (50 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (rostfrei.isChecked() && schrup.isChecked()) {
-
-                double a;
-                a = (45 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (rostfrei.isChecked() && schlicht.isChecked()) {
-
-                double a;
-                a = (55 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (guss.isChecked() && schlicht.isChecked()) {
-
-                double a;
-                a = (110 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (guss.isChecked() && schrup.isChecked()) {
-
-                double a;
-                a = (90 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (hitze.isChecked() && schlicht.isChecked()) {
-
-                double a;
-                a = (35 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-            }
-
-            if (hitze.isChecked() && schlicht.isChecked()) {
-
-                double a;
-                a = (50 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-            }
-
-
-        }else if (menu.getSelectedItem().toString().equals( "PMX")){
-
-                if (hart.isChecked() && schrup.isChecked()){
+                if (hart.isChecked()) {
 
                     double a;
-                    a =  (20 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    a = (50 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+
                     ergebnis.setText(String.valueOf(a));
 
                 }
 
-                if (hart.isChecked() && schlicht.isChecked()){
+                if (rostfrei.isChecked() && schrup.isChecked()) {
 
                     double a;
-                    a =  (35 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    a = (45 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
                     ergebnis.setText(String.valueOf(a));
 
                 }
 
-                if (rostfrei.isChecked() && schrup.isChecked()){
+                if (rostfrei.isChecked() && schlicht.isChecked()) {
 
                     double a;
-                    a =  (30 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    a = (55 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
                     ergebnis.setText(String.valueOf(a));
 
                 }
 
-                if (rostfrei.isChecked() && schlicht.isChecked()){
+                if (guss.isChecked() && schlicht.isChecked()) {
 
                     double a;
-                    a =  (45 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    a = (110 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
                     ergebnis.setText(String.valueOf(a));
 
                 }
 
-                if (guss.isChecked() && schlicht.isChecked()){
+                if (guss.isChecked() && schrup.isChecked()) {
 
                     double a;
-                    a =  (65 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    a = (90 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
                     ergebnis.setText(String.valueOf(a));
 
                 }
 
-                if (guss.isChecked() && schrup.isChecked()){
+                if (hitze.isChecked() && schrup.isChecked()) {
 
                     double a;
-                    a =  (35 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                    ergebnis.setText(String.valueOf(a));
-
-                }
-
-                if (hitze.isChecked() && schlicht.isChecked()){
-
-                    double a;
-                    a =  (20 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    a = (35 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
                     ergebnis.setText(String.valueOf(a));
                 }
 
-                if (hitze.isChecked() && schlicht.isChecked()){
+                if (hitze.isChecked() && schlicht.isChecked()) {
 
                     double a;
-                    a =  (15 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    a = (50 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
                     ergebnis.setText(String.valueOf(a));
                 }
 
 
-            }else if (menu.getSelectedItem().toString().equals( "HSSE-Co8")){
+            } else if (menu.getSelectedItem().toString().equals("PMX")) {
 
-            if (hart.isChecked() && schrup.isChecked()){
+                if (hart.isChecked() && schrup.isChecked()) {
 
-                double a;
-                a =  (18 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
+                    double a;
+                    a = (20 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (hart.isChecked() && schlicht.isChecked()) {
+
+                    double a;
+                    a = (35 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (rostfrei.isChecked() && schrup.isChecked()) {
+
+                    double a;
+                    a = (30 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (rostfrei.isChecked() && schlicht.isChecked()) {
+
+                    double a;
+                    a = (45 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (guss.isChecked() && schlicht.isChecked()) {
+
+                    double a;
+                    a = (65 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (guss.isChecked() && schrup.isChecked()) {
+
+                    double a;
+                    a = (35 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (hitze.isChecked() && schrup.isChecked()) {
+
+                    double a;
+                    a = (15 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+                }
+
+                if (hitze.isChecked() && schlicht.isChecked()) {
+
+                    double a;
+                    a = (20 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+                }
+
+
+            } else if (menu.getSelectedItem().toString().equals("HSSE-Co8")) {
+
+                if (hart.isChecked() && schrup.isChecked()) {
+
+                    double a;
+                    a = (18 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (hart.isChecked() && schlicht.isChecked()) {
+
+                    double a;
+                    a = (18 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (rostfrei.isChecked() && schrup.isChecked()) {
+
+                    double a;
+                    a = (15 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (rostfrei.isChecked() && schlicht.isChecked()) {
+
+                    double a;
+                    a = (15 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (guss.isChecked() && schlicht.isChecked()) {
+
+                    double a;
+                    a = (25 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (guss.isChecked() && schrup.isChecked()) {
+
+                    double a;
+                    a = (25 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
+                    ergebnis.setText(String.valueOf(a));
+
+                }
+
+                if (hitze.isChecked() && schlicht.isChecked()) {
+
+                    ergebnis.setText("keine Angabe");
+                }
+
+                if (hitze.isChecked() && schrup.isChecked()) {
+
+                    ergebnis.setText("keien Angabe");
+                }
+
 
             }
-
-            if (hart.isChecked() && schlicht.isChecked()){
-
-                double a;
-                a =  (18 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (rostfrei.isChecked() && schrup.isChecked()){
-
-                double a;
-                a =  (15 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (rostfrei.isChecked() && schlicht.isChecked()){
-
-                double a;
-                a =  (15 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (guss.isChecked() && schlicht.isChecked()){
-
-                double a;
-                a =  (25 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (guss.isChecked() && schrup.isChecked()){
-
-                double a;
-                a =  (25 * 1000) / (Integer.parseInt(durchmesserInput.getText().toString()) * Math.PI);
-                ergebnis.setText(String.valueOf(a));
-
-            }
-
-            if (hitze.isChecked() && schlicht.isChecked()){
-
-                ergebnis.setText("keine Angabe");
-            }
-
-            if (hitze.isChecked() && schlicht.isChecked()){
-
-                ergebnis.setText("keien Angabe");
-            }
-
 
         }
 
 
-        //Ende
     }
 
 
