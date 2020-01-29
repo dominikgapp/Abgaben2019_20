@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+
+
+    <Spinner
+        android:id="@+id/menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="102dp" />
+
+
+
+    <EditText
+        android:id="@+id/durchmesser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Durchmesser"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Wählen Sie den zu bearbeitenden Werkstoff "
+        android:padding="15dp"/>
+
+    <CheckBox
+        android:id="@+id/gehartet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="gehärteter Stahl" />
+
+    <CheckBox
+        android:id="@+id/rostfrei"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="rostfreie Stähle" />
+
+    <CheckBox
+        android:id="@+id/guss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gusseisen" />
+
+    <CheckBox
+        android:id="@+id/hitze"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hitzebeständiger, warmfester Stahl" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Wollen Sie Schruppen oder Schlichten? "
+        android:padding="15dp"/>
+
+    <CheckBox
+        android:id="@+id/schrup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Schruppen" />
+
+    <CheckBox
+        android:id="@+id/schicht"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Schlichten" />
+
+    <TextView
+        android:id="@+id/ergebnis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="50dp"
+        android:hint="Drehzahl" />
+
+    <Button
+        android:id="@+id/clear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="zurücksetzten" />
+
+
+</LinearLayout>
