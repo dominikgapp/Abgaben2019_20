@@ -9,11 +9,674 @@
 	<atom:link rel="self" href="http://planeteclipse.org/rss20.xml" type="application/rss+xml"/>
 
 <item>
-	<title>Eclipse Announcements: Eclipse Foundation’s New Bylaws Are in Effect</title>
-	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/D1-MbGYlLkM/20200107-bylaws_release_3.php</guid>
-	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/D1-MbGYlLkM/20200107-bylaws_release_3.php</link>
-	<description>We are pleased to announce the Eclipse Foundationâ€™s new Bylaws went into effect on January 1, 2020.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/D1-MbGYlLkM&quot; width=&quot;1&quot; /&gt;</description>
-	<pubDate>Tue, 07 Jan 2020 14:45:00 +0000</pubDate>
+	<title>Thabang Mashologu: CN4J Day Is an Important Industry First</title>
+	<guid isPermaLink="false">6761 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/thabang-mashologu/cn4j-day-important-industry-first</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Mark Cloud Native for Java (CN4J) Day on March 30 on your calendars. This all-day event at KubeCon + CloudNativeCon Europe will be the first time the best and brightest minds from the Java and the Kubernetes communities join forces at a single event to collaborate and share their expertise.&lt;br /&gt;
+ &lt;br /&gt;
+CN4J Day attendees will benefit from expert talks, demos, and thought-provoking sessions focused on building cloud native enterprise applications using Jakarta EE-based microservices on Kubernetes.&lt;br /&gt;
+&lt;br /&gt;
+CN4J Day is a major milestone in open source software development. It’s also a significant day for everyone involved with the Eclipse Foundation because it confirms the Jakarta EE and MicroProfile communities are at the forefront of open source innovation, delivering on the promise of cloud native Java. Given that the Eclipse Foundation is Europe’s largest open source organization, it makes perfect sense to hold this first-of-its-kind event in Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;The timing of CN4J Day could not be better. As our Executive Director, Mike Milinkovich, noted in &lt;a href=&quot;https://blogs.eclipse.org/post/mike-milinkovich/moving-forward-jakarta-ee-9&quot;&gt;his blog&lt;/a&gt;, momentum toward Jakarta EE 9 is building. This event gives all of us an important and truly unique opportunity to:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Learn more about the future of cloud native Java development from industry and community leaders&lt;/li&gt;
+	&lt;li&gt;Gain deeper insight into key aspects of Jakarta EE, MicroProfile, and Kubernetes technologies&lt;/li&gt;
+	&lt;li&gt;Meet and share ideas with global Java and Kubernetes ecosystem innovators &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Leading minds from the global Java ecosystem will be on hand at CN4J Day to share their expertise. Along with keynote talks from our own Mike Milinkovich and IBM Java CTO, Tim Ellison, CN4J Day offers technical insights from well-known Java experts and Eclipse Foundation community members, including:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Adam Bien, an internationally recognized Java architect, developer, workshop leader, and author&lt;/li&gt;
+	&lt;li&gt;Sebastian Daschner, lead java developer advocate at IBM&lt;/li&gt;
+	&lt;li&gt;Clement Escoffier, principal software engineer at Red Hat&lt;/li&gt;
+	&lt;li&gt;Ken Finnegan, senior principal engineer at Red Hat&lt;/li&gt;
+	&lt;li&gt;Emily Jiang, liberty architect for MicroProfile and CDI at IBM&lt;/li&gt;
+	&lt;li&gt;Dmitry Kornilov, Jakarta EE and Helidon Team Leader at Oracle&lt;/li&gt;
+	&lt;li&gt;Tomas Langer, Helidon Architect &amp;amp; Developer at Oracle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Leading players in the Java ecosystem have signed on to sponsor CN4J activities and show their support for the initiative. Our sponsors include the Cloud Native Computing Foundation (CNCF), IBM, Oracle, and Red Hat.&lt;/p&gt;
+
+&lt;p&gt;Since we have limited capacity, this is a first-come, first-served event. To register today, just include CN4J Day when you’re registering for KubeCon + CloudNativeCon Europe. Thanks to the generous support of our sponsors, a limited amount of discounted CN4J Day add-on registrations will be made available to Jakarta EE and MicroProfile community members. For more information about CN4J Day and a link to the registration page, click &lt;a href=&quot;http://eclipse.org/cn4j-day&quot;&gt;here&lt;/a&gt;.&lt;br /&gt;
+ &lt;br /&gt;
+For additional questions regarding this event, please reach out to events-info@eclipse.org. We’ll let you know when we add speakers and sponsors for CN4J Day. Watch our&lt;a href=&quot;https://blogs.eclipse.org/&quot;&gt; blogs&lt;/a&gt; and&lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot;&gt; newsletters&lt;/a&gt; for updates.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags: &lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/jakarta-ee&quot;&gt;Jakarta EE&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/eclipse-microprofile&quot;&gt;Eclipse MicroProfile&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/kubernetes&quot;&gt;kubernetes&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/cn4j-day&quot;&gt;CN4J Day&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/kubecon-europe-2020&quot;&gt;KubeCon Europe 2020&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 29 Jan 2020 02:44:31 +0000</pubDate>
+</item>
+<item>
+	<title>Tom Schindl: Setting up e(fx)clipse RCP development for Java11+ and PDE</title>
+	<guid isPermaLink="false">http://tomsondev.bestsolution.at/?p=5197</guid>
+	<link>https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/</link>
+	<description>&lt;p&gt;As I’m currently converting a Java-8 project to AdoptJDK-11 and JavaFX-11+ I thought it would be a good idea document the steps involved.&lt;/p&gt;
+&lt;h2&gt;Prequisits&lt;/h2&gt;
+&lt;p&gt;I assume you have installed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eclipse 2019-12 – &lt;a href=&quot;http://download.eclipse.org/eclipse/&quot; rel=&quot;nofollow&quot;&gt;http://download.eclipse.org/eclipse/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Installed e(fx)clipse 3.6.0 or above – &lt;a href=&quot;https://marketplace.eclipse.org/content/efxclipse&quot; rel=&quot;nofollow&quot;&gt;https://marketplace.eclipse.org/content/efxclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AdoptJDK-11 – &lt;a href=&quot;https://adoptopenjdk.net/?variant=openjdk11&amp;amp;jvmVariant=hotspot&quot; rel=&quot;nofollow&quot;&gt;https://adoptopenjdk.net/?variant=openjdk11&amp;amp;jvmVariant=hotspot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Downloaded and extracted the JavaFX-SDK-11 – &lt;a href=&quot;https://openjfx.io/&quot; rel=&quot;nofollow&quot;&gt;https://openjfx.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Configure your Eclipse&lt;/h2&gt;
+&lt;h3&gt;Java Settings&lt;/h3&gt;
+&lt;p&gt;Make AdoptJDK-11 the default JRE unless it is already the default.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-03-59/&quot; rel=&quot;attachment wp-att-5203&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5203&quot; height=&quot;585&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.03.59.png?w=640&amp;amp;h=585&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Make sure AdoptJDK-11 is used for the Java-SE-11 EE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-05-46/&quot; rel=&quot;attachment wp-att-5205&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5205&quot; height=&quot;362&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.05.46.png?w=640&amp;amp;h=362&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;e(fx)clipse Settings&lt;/h3&gt;
+&lt;p&gt;Open the JavaFX-Preference Page and point it to your JavaFX-11-SDK&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-10-44/&quot; rel=&quot;attachment wp-att-5208&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5208&quot; height=&quot;472&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.10.44.png?w=640&amp;amp;h=472&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This step is required because JavaFX is not part of AdoptJDK-11 and hence Eclipse won’t find the libraries and your code won’t compile inside the IDE (we’ll revisit this topic below once more)&lt;/p&gt;
+&lt;h3&gt;Setup a target platform&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-15-43/&quot; rel=&quot;attachment wp-att-5233&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5233&quot; height=&quot;618&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.15.43.png?w=640&amp;amp;h=618&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-17-54/&quot; rel=&quot;attachment wp-att-5235&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5235&quot; height=&quot;593&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.17.54.png?w=640&amp;amp;h=593&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-19-06/&quot; rel=&quot;attachment wp-att-5237&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5237&quot; height=&quot;684&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.19.06.png?w=640&amp;amp;h=684&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Create your project&lt;/h2&gt;
+&lt;h3&gt;Bootstrap your project&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-22-27/&quot; rel=&quot;attachment wp-att-5216&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5216&quot; height=&quot;584&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.22.27.png?w=640&amp;amp;h=584&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-24-19/&quot; rel=&quot;attachment wp-att-5217&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5217&quot; height=&quot;584&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.24.19.png?w=640&amp;amp;h=584&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-24-40/&quot; rel=&quot;attachment wp-att-5219&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5219&quot; height=&quot;584&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.24.40.png?w=640&amp;amp;h=584&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Check your project setup&lt;/h3&gt;
+&lt;p&gt;Check if Eclipse correctly recognized the javafx-library and magically added them to your plug-in dependendencies&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-27-01/&quot; rel=&quot;attachment wp-att-5221&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5221&quot; height=&quot;591&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.27.01.png?w=640&amp;amp;h=591&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Implement the UI&lt;/h2&gt;
+&lt;h3&gt;Add javax.annotation to your MANIFEST.MF&lt;/h3&gt;
+&lt;p&gt;Before you can write the Java-Code for your UI you need to add javax.annotation-package to your bundle (this used to ship with Java-8 has been removed since then)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-32-48/&quot; rel=&quot;attachment wp-att-5223&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5223&quot; height=&quot;346&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.32.48.png?w=640&amp;amp;h=346&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Create a Java-Class&lt;/h3&gt;
+&lt;pre class=&quot;brush: java; title: ; notranslate&quot;&gt;package my.app.app;
+
+import javax.annotation.PostConstruct;
+
+import javafx.scene.control.Label;
+import javafx.scene.layout.BorderPane;
+
+public class SamplePart {
+  @PostConstruct
+  void init(BorderPane root) {
+    root.setCenter(
+      new Label(System.getProperty(&quot;javafx.version&quot;))
+    );
+  }
+}
+&lt;/pre&gt;
+&lt;h3&gt;Adapt your e4xmi&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-13-38-34/&quot; rel=&quot;attachment wp-att-5228&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5228&quot; height=&quot;514&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-13.38.34.png?w=640&amp;amp;h=514&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Running your application&lt;/h2&gt;
+&lt;p&gt;While everything happily compiles running the application would fail because in the initial steps we only satisfied the Eclipse compiler by magically injecting the JavaFX-Libraries in your Plug-in-Dependency (see above).&lt;/p&gt;
+&lt;p&gt;To run the application we need to decide how we’d like to ship JavaFX:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;next to your application in a folder&lt;/li&gt;
+&lt;li&gt;as part of your eclipse application inside the the plugins-directory&lt;/li&gt;
+&lt;li&gt;you jlink yourself a JDK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’ll not take a look at the 3rd solution as part of this blog post!&lt;/p&gt;
+&lt;h3&gt;Running with an external folder&lt;/h3&gt;
+&lt;p&gt;Open the generated launch configuration and append &lt;code&gt;-Defxclipse.java-modules.dir=PATH_TO_YOUR_JAVAFX_LIBS&lt;/code&gt; in the VM arguments-field&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-21-04/&quot; rel=&quot;attachment wp-att-5239&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5239&quot; height=&quot;487&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.21.04.png?w=640&amp;amp;h=487&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Running with bundled javafx-modules&lt;/h3&gt;
+&lt;p&gt;We provide OSGi-Bundles who contain the original and unmodified JavaFX-Modules (note you can NOT use them are OSGi-Dependencies!) you can use them by adding &lt;a href=&quot;http://downloads.efxclipse.bestsolution.at/p2-repos/openjfx-11/repository/&quot; rel=&quot;nofollow&quot;&gt;http://downloads.efxclipse.bestsolution.at/p2-repos/openjfx-11/repository/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-32-02/&quot; rel=&quot;attachment wp-att-5241&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5241&quot; height=&quot;633&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.32.02.png?w=640&amp;amp;h=633&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-32-48/&quot; rel=&quot;attachment wp-att-5242&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5242&quot; height=&quot;597&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.32.48.png?w=640&amp;amp;h=597&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Add them to your launch configuration&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-35-44/&quot; rel=&quot;attachment wp-att-5244&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5244&quot; height=&quot;489&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.35.44.png?w=640&amp;amp;h=489&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Exporting your application&lt;/h2&gt;
+&lt;p&gt;The project wizard already generated the basic infrastructure for you but we need to make some small changes. We assume you’ve chosen to option to ship the JavaFX-modules as part of the plugins-directory to keep it simple.&lt;/p&gt;
+&lt;p&gt;The wizard already added the JavaFX-Standard-Feature into your product-File&lt;br /&gt;
+&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-44-17/&quot; rel=&quot;attachment wp-att-5246&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5246&quot; height=&quot;489&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.44.17.png?w=640&amp;amp;h=489&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It also added the parts to satisfy the compiler in your releng/pom.xml&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-14-45-50/&quot; rel=&quot;attachment wp-att-5248&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5248&quot; height=&quot;489&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-14.45.50.png?w=640&amp;amp;h=489&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;While most of the stuff is already in place we need to make 2 small modifications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Update the tycho-version property to 1.5.0&lt;/li&gt;
+&lt;li&gt;Change the export environment to match the operation-system(s) you want to target
+&lt;ul&gt;
+&lt;li&gt;Windows: os=win32, ws=win32, arch=x86_64&lt;/li&gt;
+&lt;li&gt;Linux: os=linux, ws=gtk, arch=x86_64&lt;/li&gt;
+&lt;li&gt;OS-X: os=macosx, ws=cocoa, arch=x86_64&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-15-07-53/&quot; rel=&quot;attachment wp-att-5250&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5250&quot; height=&quot;384&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-15.07.53.png?w=640&amp;amp;h=384&quot; width=&quot;640&quot; /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;h3&gt;Producing a native launcher&lt;/h3&gt;
+&lt;p&gt;As we anyway have to produce a platform-dependent we can also add the creation of a native launcher. For that open your .product-File:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tick the “The product includes native launcher artifacts”&lt;/li&gt;
+&lt;li&gt;Change the application to main-thread-application&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://tomsondev.bestsolution.at/2020/01/28/setting-up-efxclipse-rcp-development-for-java11-and-pde/bildschirmfoto-2020-01-28-um-15-53-49/&quot; rel=&quot;attachment wp-att-5254&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-5254&quot; height=&quot;384&quot; src=&quot;https://tomsondev.files.wordpress.com/2020/01/bildschirmfoto-2020-01-28-um-15.53.49.png?w=640&amp;amp;h=384&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Tue, 28 Jan 2020 15:00:08 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: The Eclipse Foundation Announces the CN4J Day 2020 Event for Building Enterprise Java on Kubernetes</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/G-IVzMvJ570/</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/G-IVzMvJ570/</link>
+	<description>Today the Eclipse Foundation announced the launch of the Cloud Native for Java (CN4J) Day event, a full-day of expert talks, demos, and thought-provoking sessions focused on enterprise applications implemented using open source vendor-neutral Jakarta EE (successor of Java EE) and Eclipse MicroProfile specifications on Kubernetes.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/G-IVzMvJ570&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 28 Jan 2020 13:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Milinkovich: Cloud Native for Java Day @ KubeCon EU</title>
+	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1521</guid>
+	<link>https://eclipse-foundation.blog/2020/01/28/cloud-native-for-java-day-kubecon-eu/</link>
+	<description>&lt;p&gt;&lt;a href=&quot;http://eclipse-5413615.hs-sites&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;Cloud Native for Java (CN4J) Day&lt;/a&gt; at KubeCon + CloudNativeCon Europe will be the first time the best and brightest minds from the Java ecosystem and the Kubernetes ecosystem come together at one event to collaborate and share their expertise.&lt;/p&gt;
+&lt;p&gt;The all-day event on March 30 includes expert talks, demos, and thought-provoking sessions focused on building cloud native enterprise applications using Jakarta EE-based microservices on Kubernetes. CN4J Day is a proud moment for all of us at the Eclipse Foundation as it confirms the Jakarta EE and MicroProfile communities are at the forefront of fulfilling the promise of cloud native Java. We’re excited to be working with our friends at the CNCF to offer this event co-located with KubeCon Europe.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A Unique Opportunity to Engage With Global Experts&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The timing of CN4J Day could not be better. With &lt;a href=&quot;https://blogs.eclipse.org/post/mike-milinkovich/moving-forward-jakarta-ee-9&quot;&gt;momentum toward the Jakarta EE 9&lt;/a&gt; release building, this event gives all of us an important and truly unique opportunity to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;    Learn more about the future of cloud native Java development from industry and community leaders&lt;/li&gt;
+&lt;li&gt;    Gain deeper insight into key aspects of Jakarta EE, MicroProfile, and Kubernetes technologies&lt;/li&gt;
+&lt;li&gt;    Meet and share ideas with global Java and Kubernetes ecosystem innovators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The global Java ecosystem has embraced CN4J day and several of its leading minds will be on-hand to share their insights. Along with keynote addresses from my colleague Tanja Obradovic and IBM Java CTO, Tim Ellison, CN4J Day features informative technical talks from Java experts and Eclipse Foundation community members, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;    Adam Bien, an internationally recognized Java architect, developer, workshop leader, and author&lt;/li&gt;
+&lt;li&gt;    Sebastian Daschner, lead java developer advocate at IBM&lt;/li&gt;
+&lt;li&gt;    Clement Escoffier, principal software engineer at Red Hat&lt;/li&gt;
+&lt;li&gt;    Ken Finnegan, senior principal engineer at Red Hat&lt;/li&gt;
+&lt;li&gt;    Emily Jiang, liberty architect for MicroProfile and CDI at IBM&lt;/li&gt;
+&lt;li&gt;    Dmitry Kornilov, Jakarta EE and Helidon Team Leader at Oracle&lt;/li&gt;
+&lt;li&gt;    Tomas Langer, Helidon Architect &amp;amp; Developer at Oracle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Major Industry and Ecosystem Endorsement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Leading industry players in the Java ecosystem are also showing their support for CN4J Day through sponsorship. Our sponsors include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;    Cloud Native Computing Foundation (CNCF)&lt;/li&gt;
+&lt;li&gt;    IBM&lt;/li&gt;
+&lt;li&gt;    Oracle&lt;/li&gt;
+&lt;li&gt;    Red Hat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The event is being coordinated by an independent program committee composed of Arun Gupta, principal technologist at Amazon Web Services, Reza Rahman, principal program manager for Java on Azure at Microsoft, and Tanja Obradovic, program manager for Jakarta EE at the Eclipse Foundation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Register Today&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To register today, simply add the event to your KubeCon + CloudNativeCon Europe registration. Thanks to the generous support of our sponsors, a limited amount of discounted CN4J Day add-on registrations will be made available to Jakarta EE and MicroProfile community members on a first-come, first-served basis.&lt;/p&gt;
+&lt;p&gt;For more details about CN4J Day and a link to the registration page, click&lt;a href=&quot;http://eclipse.org/cn4j-day&quot;&gt; here&lt;/a&gt;. For additional questions regarding this event, please reach out to events-info@eclipse.org.&lt;/p&gt;
+&lt;p&gt;As additional speakers and sponsors come onboard, we’ll keep you posted, so watch for updates in our&lt;a href=&quot;https://blogs.eclipse.org/&quot;&gt; blogs&lt;/a&gt; and&lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot;&gt; newsletters&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Tue, 28 Jan 2020 12:00:08 +0000</pubDate>
+</item>
+<item>
+	<title>Wayne Beaton: Organizing Your Eclipse Foundation Open Source Project Team</title>
+	<guid isPermaLink="false">http://waynebeaton.wordpress.com/?p=5619</guid>
+	<link>https://waynebeaton.wordpress.com/2020/01/27/organizing-your-eclipse-foundation-open-source-project-team/</link>
+	<description>&lt;p&gt;The &lt;a href=&quot;https://www.eclipse.org/projects/dev_process/&quot;&gt;Eclipse Foundation Development Process&lt;/a&gt; (AKA, the Eclipse Development Process or EDP) says nothing about how teams should organize. &lt;/p&gt;
+
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;&lt;figure class=&quot;aligncenter size-large is-resized&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-5624&quot; height=&quot;225&quot; src=&quot;https://waynebeaton.files.wordpress.com/2020/01/image.png?w=549&quot; width=&quot;358&quot; /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;The EDP defines a &lt;em&gt;committer&lt;/em&gt; role: committers are those developers who have the ability to make decisions for the project (e.g., push commits to project Git repositories and configure build servers). We often say that the committers are the ones with the real power: they’re the ones that hold all of the keys to all of the project resources. With great power comes great responsibility, so we have a &lt;a href=&quot;https://www.eclipse.org/projects/handbook/#elections-committer&quot;&gt;well-defined process&lt;/a&gt; by which a contributor may demonstrate to the existing project committers that they are worthy of joining them as a peer.&lt;/p&gt;
+
+
+
+&lt;p&gt;The EDP also defines a &lt;em&gt;project lead&lt;/em&gt; role: project leads are responsible for ensuring that the processes are being followed. So, for example, project leads need to ensure that committers are engaging in the &lt;a href=&quot;https://www.eclipse.org/projects/handbook/#ip&quot;&gt;IP due diligence process&lt;/a&gt;. But they are also responsible for ensuring that committers are “playing nice”. That is, they need to ensure that the level playing field and vendor neutrality bits in the EDP are being observed, but the EDP does not explicitly grant project leads any special powers to make technical decisions on behalf of the project team. &lt;/p&gt;
+
+
+
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p&gt;As the first link in the project leadership chain, one important power granted to project leads by the EDP is the ability to retire committers who are working against the interests of the team. This is essentially the &lt;em&gt;nuclear option&lt;/em&gt;  (&lt;a href=&quot;https://www.merriam-webster.com/dictionary/nuclear%20option&quot;&gt;per Merriam-Webster&lt;/a&gt;,  “an extreme option regarded as a drastic step or last resort”) and it should be used with care.&lt;/p&gt;&lt;/blockquote&gt;
+
+
+
+&lt;p&gt;Other than defining committers and project leads, the EDP says nothing about how teams organize. We expect that project teams sort this out for themselves.&lt;/p&gt;
+
+
+
+&lt;p&gt;While it is natural to have one or more committers become technical leaders in the project team, there is no formal &lt;em&gt;technical lead&lt;/em&gt; role defined in the EDP. Likewise, while it is natural for certain members of a specification project team to become leaders in the specification process, there is no formal notion of &lt;em&gt;specification lead&lt;/em&gt; (or “spec lead”) defined in the &lt;a href=&quot;https://www.eclipse.org/projects/efsp/&quot;&gt;Eclipse Foundation Specification Process&lt;/a&gt; (EFSP). Any de facto technical or specification lead does not have any special authority beyond that which is granted to them by the other project committers. &lt;/p&gt;
+
+
+
+&lt;p&gt;So the committers in a project team have some say over who their leaders are and what powers they grant to those leaders. While the role is not specifically defined for this sort of thing, the project lead role &lt;em&gt;could&lt;/em&gt; be granted decision making powers. It is completely reasonable for a project team to decide, for example, that somebody in the project lead role must approve of all commits and anybody with that role can mitigate potential rogue actions by rolling back commits. One of the key benefits of organizing in this manner is that project lead is an &lt;a href=&quot;https://www.eclipse.org/projects/handbook/#elections-pl&quot;&gt;elected position&lt;/a&gt;, so project committers have a build-in process for capturing the decision to grant those extra powers.&lt;/p&gt;
+
+
+
+&lt;p&gt;So how does all of this work?&lt;/p&gt;
+
+
+
+&lt;p&gt;For many open source projects, the committers follow the natural leaders, and that’s the end of it. But when a more formal relationship is desired, it must be arrived at by consensus of the project team (via public channels) and documented clearly so that everybody can understand how the project team works (making it very clear how a project team works is a critically important aspect of growing diversity in your project team). If the project team decides, for example, that all committers must contribute their updates as pull requests that may only be merged by a project lead, that must be documented (it’s fairly common for project teams to require that pull requests from one committer be merged by a different committer). When the role is formally defined, it’s also important to document how a committer ascends to into that role (to be clear, in the spirit of vendor neutrality, this criteria cannot be based on employment status).&lt;/p&gt;
+
+
+
+&lt;p&gt;Note that any rules that a project team decides to adopt don’t have to apply homogeneously across the entire project; a specification project team could decide, for example, that all contributions of text to a specification document must be approved by project lead before they can be merged, but that all committers can just merge their contributions to an API.&lt;/p&gt;
+
+
+
+&lt;p&gt;While I have your attention… I’d like to also highlight that the Eclipse Development Process says nothing about day-to-day development within a project. It is the project team’s responsibility to decide things like development methodology, merit criteria for new committers and project leads, etc.. &lt;/p&gt;
+			&lt;div id=&quot;atatags-26942-5e2f50db1ae84&quot;&gt;&lt;/div&gt;</description>
+	<pubDate>Mon, 27 Jan 2020 21:04:58 +0000</pubDate>
+</item>
+<item>
+	<title>vert.x project: Eclipse Vert.x 3.8.5</title>
+	<guid isPermaLink="true">https://vertx.io/blog/eclipse-vert-x-3-8-5</guid>
+	<link>https://vertx.io/blog/eclipse-vert-x-3-8-5</link>
+	<description>&lt;article&gt;&lt;p&gt;We have just released Vert.x 3.8.5, a bug fix release of Vert.x 3.8.x.&lt;/p&gt;
+&lt;p&gt;Since the release of Vert.x 3.8.5, quite a few bugs have been reported. We would like to thank you all for reporting these issues.&lt;/p&gt;
+&lt;p&gt;Vert.x 3.8.5 deprecations and breaking changes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/wiki/wiki/3.8.5-Deprecations-and-breaking-changes&quot;&gt;https://github.com/vert-x3/wiki/wiki/3.8.5-Deprecations-and-breaking-changes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vert.x 3.8.5 release notes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/wiki/wiki/3.8.5-Release-Notes&quot;&gt;https://github.com/vert-x3/wiki/wiki/3.8.5-Release-Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The artifacts have been deployed to &lt;a href=&quot;http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.vertx%22%20AND%20v%3A%223.8.%22&quot;&gt;Maven Central&lt;/a&gt; and you can get the distribution on &lt;a href=&quot;https://bintray.com/vertx/downloads/distribution/3.8.4/view&quot;&gt;Bintray&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can bootstrap a Vert.x 3.8.5 project using &lt;a href=&quot;https://start.vertx.io&quot;&gt;https://start.vertx.io&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The event bus client using the SockJS bridge are available from NPM, Bower and as a WebJar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/vertx3-eventbus-client&quot;&gt;https://www.npmjs.com/package/vertx3-eventbus-client&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/vertx-bus-bower&quot;&gt;https://github.com/vert-x3/vertx-bus-bower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.webjars.org/&quot;&gt;http://www.webjars.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Docker images are also available on the &lt;a href=&quot;https://hub.docker.com/u/vertx/&quot;&gt;Docker Hub&lt;/a&gt;. The Vert.x distribution is also available from &lt;a href=&quot;http://sdkman.io/index.html&quot;&gt;SDKMan&lt;/a&gt; and &lt;a href=&quot;http://brew.sh/&quot;&gt;HomeBrew&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Happy coding and see you soon on our user or dev &lt;a href=&quot;https://vertx.io/community&quot;&gt;channels&lt;/a&gt;.&lt;/p&gt;
+&lt;/article&gt;</description>
+	<pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Mat Booth: Eclipse 2019-12 Now Available From Flathub</title>
+	<guid isPermaLink="false">tag:blog.matbooth.co.uk,2020-01-20:/12-eclipse-now-in-flathub.html/</guid>
+	<link>http://blog.matbooth.co.uk/12-eclipse-now-in-flathub.html</link>
+	<description>&lt;p&gt;How to get the latest release of Eclipse from Flathub.&lt;/p&gt;</description>
+	<pubDate>Mon, 20 Jan 2020 16:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Moving Forward With Jakarta EE 9</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/6EDbne8yvdw/moving-forward-jakarta-ee-9</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/6EDbne8yvdw/moving-forward-jakarta-ee-9</link>
+	<description>On behalf of the Jakarta EE Working Group, we are excited to announce the unanimous approval of the plan for Jakarta EE 9, with an anticipated mid-2020 release.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/6EDbne8yvdw&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 20 Jan 2020 15:45:00 +0000</pubDate>
+</item>
+<item>
+	<title>Jeremie Bresson: JDT without Eclipse</title>
+	<guid isPermaLink="false">blog/2020/2020-01-17_jdt-without-eclipse.html</guid>
+	<link>http://jmini.github.io/blog/2020/2020-01-17_jdt-without-eclipse.html</link>
+	<description>&lt;div id=&quot;preamble&quot;&gt; 
+ &lt;div class=&quot;sectionbody&quot;&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;The &lt;a href=&quot;https://www.eclipse.org/jdt/&quot;&gt;JDT&lt;/a&gt; (Java Development Tools) is an important part of Eclipse IDE but it can also be used without Eclipse.&lt;/p&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;For example the Spring Tools 4, which is nowadays a cross-platform tool (Visual Studio Code, Eclipse IDE, …), is highly using the JDT behind the scene. If you would like to know more, I recommend you this podcast episode: &lt;a href=&quot;https://soundcloud.com/a-bootiful-podcast/spring-tools-lead-martin-lippert&quot;&gt;Spring Tools lead Martin Lippert&lt;/a&gt;&lt;/p&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;A second known example is the Java Formatter that is also part of the JDT. Since a long time there are maven and gradle plugins that performs the same formatting as Eclipse IDE but as part of the build (often with the possibly to break the build when the code is wrongly formatted).&lt;/p&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;Reusing the JDT has been made easier since 2017 when it was decided to publish each release and its dependencies on maven central (with following &lt;code&gt;groupId&lt;/code&gt;: &lt;code&gt;org.eclipse.jdt&lt;/code&gt;, &lt;code&gt;org.eclipse.platform&lt;/code&gt;). Stephan Herrmann did a lot of work to achieve this goal. I blogged about this: &lt;a href=&quot;https://jmini.github.io/blog/2017/2017-01-10_use-eclipse-jdt-in-java-app.html&quot;&gt;Use the Eclipse Java Development Tools in a Java SE application&lt;/a&gt; and I have pushed a simple example the Java Formatter is used in a simple &lt;code&gt;main(String[])&lt;/code&gt; method built by a classic minimal Maven project: &lt;a href=&quot;https://github.com/jmini/jdt-experiments/tree/master/java-formatter&quot;&gt;java-formatter&lt;/a&gt;.&lt;/p&gt; 
+  &lt;/div&gt; 
+ &lt;/div&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;sect1&quot;&gt; 
+ &lt;h2 id=&quot;workspace_or_not&quot;&gt;Workspace or not?&lt;/h2&gt; 
+ &lt;div class=&quot;sectionbody&quot;&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;When using the JDT in an headless application, two cases needs to be distinguished:&lt;/p&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;olist arabic&quot;&gt; 
+   &lt;ol class=&quot;arabic&quot;&gt; 
+    &lt;li&gt; &lt;p&gt;Some features (the parser, the formatter…) can be used in a simple Java main method.&lt;/p&gt; &lt;/li&gt; 
+    &lt;li&gt; &lt;p&gt;Other features (search index, AST rewriter…) require a workspace. This imply that the code run inside an OSGi runtime.&lt;/p&gt; &lt;/li&gt; 
+   &lt;/ol&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;To illustrate this aspect, I took some of the examples provided by the site &lt;code&gt;www.programcreek.com&lt;/code&gt; in the blog post series &lt;a href=&quot;https://www.programcreek.com/2011/01/best-java-development-tooling-jdt-and-astparser-tutorials/&quot;&gt;Eclipse JDT Tutorials&lt;/a&gt; and I adapted them so that each code snippet can be executed inside a JUnit test. This is the &lt;a href=&quot;https://jmini.github.io/jdt-experiments/#programcreek-examples&quot;&gt;Programcreek examples&lt;/a&gt; project.&lt;/p&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;I have split the unit-tests into two projects:&lt;/p&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;ulist&quot;&gt; 
+   &lt;ul&gt; 
+    &lt;li&gt; &lt;p&gt;&lt;code&gt;programcreek-standalone&lt;/code&gt; for the one that do not require OSGi. The maven project is really simple (using the default convention everywhere)&lt;/p&gt; &lt;/li&gt; 
+    &lt;li&gt; &lt;p&gt;&lt;code&gt;programcreek-osgi&lt;/code&gt; for the one that must run inside an OSGi runtime. The &lt;a href=&quot;https://github.com/bndtools/bnd/tree/master/maven/bnd-maven-plugin&quot;&gt;bnd maven plugins&lt;/a&gt; are configured in the &lt;code&gt;pom.xml&lt;/code&gt; to take care of the OSGi stuff.&lt;/p&gt; &lt;/li&gt; 
+   &lt;/ul&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;If you run the test with Maven, it will work out-of-the box.&lt;/p&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;If you would like to run them inside an IDE, you should use one that starts OSGi when executing the tests (in the same way the maven build is doing it). To get a bnd aware IDE, you can use &lt;a href=&quot;https://www.eclipse.org/downloads/packages/release/2019-12/r/eclipse-ide-java-developers&quot;&gt;Eclipse IDE for Java Developers&lt;/a&gt; with the additional plugin &lt;a href=&quot;https://bndtools.org/&quot;&gt;Bndtools&lt;/a&gt; installed, but there are other possibilities.&lt;/p&gt; 
+  &lt;/div&gt; 
+  &lt;div class=&quot;paragraph&quot;&gt; 
+   &lt;p&gt;Source code can be found on GitHub: &lt;a href=&quot;https://github.com/jmini/jdt-experiments/tree/master/programcreek-examples&quot;&gt;programcreek-examples&lt;/a&gt;&lt;/p&gt; 
+  &lt;/div&gt; 
+ &lt;/div&gt; 
+&lt;/div&gt;</description>
+	<pubDate>Thu, 16 Jan 2020 23:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Stephan Herrmann: Oracle made me a Stackoverflow Guru</title>
+	<guid isPermaLink="false">http://objectteams.wordpress.com/?p=677</guid>
+	<link>https://objectteams.wordpress.com/2020/01/16/oracle-made-me-a-stackoverflow-guru/</link>
+	<description>&lt;p&gt;Just today Oracle helped me to become a “&lt;a href=&quot;https://stackoverflow.com/help/badges/18/guru&quot;&gt;Guru&lt;/a&gt;” on &lt;a href=&quot;https://stackoverflow.com&quot;&gt;Stackoverflow&lt;/a&gt;! How did they do it? By doing nothing.&lt;/p&gt;
+&lt;p&gt;In former times, I was periodically enraged, when Oracle didn’t pay attention to the feedback I was giving them during my work on ecj (the Eclipse Compiler for Java) – &lt;em&gt;at least not the attention that I had hoped for&lt;/em&gt; (to be fair: there was a lot of good communication, too). At those times I had still hoped I could help make Java a language that is completely and unambiguously defined by specifications. Meanwhile I recognized that Java is at least three languages: the language defined by &lt;a href=&quot;https://docs.oracle.com/javase/specs/jls/se13/html/index.html&quot;&gt;JLS&lt;/a&gt; etc., the language implemented by javac, and the language implemented by ecj (and no chance to make ecj to conform to both others). I realized that &lt;a href=&quot;https://objectteams.wordpress.com/2017/04/02/several-languages-java-8/&quot;&gt;we were not done with Java 8&lt;/a&gt; even 3 years after its release. Three more years later it’s still much the same.&lt;/p&gt;
+&lt;p&gt;So let’s move on, haven’t things improved in subsequent versions of Java? One of the key new rules in Java 9 is, that&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“If [a qualified package name] does not name a package that is uniquely visible to the current module (&lt;a href=&quot;https://docs.oracle.com/javase/specs/jls/se13/html/jls-7.html#jls-7.4.3&quot;&gt;§7.4.3&lt;/a&gt;), then a compile-time error occurs”.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Simple and unambiguous. That’s what compilers have to check.&lt;/p&gt;
+&lt;p&gt;Except: javac doesn’t check for uniqueness if one of the modules involved is the “unnamed module”.&lt;/p&gt;
+&lt;p&gt;In 2018 there was some confusion about this, and during &lt;a href=&quot;https://stackoverflow.com/questions/51094274/eclipse-cant-find-xml-related-classes-after-switching-build-path-to-jdk-10&quot;&gt;discussion on stackoverflow&lt;/a&gt; I raised this &lt;a href=&quot;http://mail.openjdk.java.net/pipermail/jigsaw-dev/2018-December/014076.html&quot;&gt;issue to the jigsaw-dev mailing list&lt;/a&gt;. A &lt;a href=&quot;https://bugs.openjdk.java.net/browse/JDK-8215739&quot;&gt;bug was raised against javac&lt;/a&gt;, &lt;a href=&quot;http://mail.openjdk.java.net/pipermail/jigsaw-dev/2018-December/014077.html&quot;&gt;confirmed to be a bug by spec lead Alex Buckley&lt;/a&gt;. I summarized the situation in &lt;a href=&quot;https://stackoverflow.com/questions/51094274/eclipse-cant-find-xml-related-classes-after-switching-build-path-to-jdk-10/53824670#53824670&quot;&gt;my answer on stackoverflow&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This bug could have been easily fixed in javac version 12, but wasn’t. Meanwhile upvotes on my answer on stackoverflow started coming in. The same for Java 13. The same for Java 14. And yet no visible activity on the javac bug. You need ecj to find if your program violates this rule of JLS.&lt;/p&gt;
+&lt;p&gt;Today the 40th upvote earned me the “Guru” tag on stackoverflow.&lt;/p&gt;
+&lt;p&gt;So, please Oracle, keep that bug unresolved, it will earn me a lot of reputation for a bright future – by doing: nothing &lt;img alt=&quot;ðŸ™‚&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 16 Jan 2020 18:40:45 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Milinkovich: Moving Forward With Jakarta EE 9</title>
+	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1518</guid>
+	<link>https://eclipse-foundation.blog/2020/01/16/moving-forward-with-jakarta-ee-9/</link>
+	<description>&lt;p&gt;On behalf of the Jakarta EE Working Group, I am excited to announce the unanimous approval of the &lt;a href=&quot;https://eclipse-ee4j.github.io/jakartaee-platform/jakartaee9/JakartaEE9ReleasePlan&quot;&gt;plan for Jakarta EE 9&lt;/a&gt;, with an anticipated mid-2020 release. Please note that the project team believes this timeline is aggressive, so think of this as a plan of &lt;i&gt;intent&lt;/i&gt; with early estimate dates. The milestone dates will be reviewed and possibly adjusted at each release review.&lt;/p&gt;
+&lt;p&gt;If you have any interest at all in the past, present, or future of Java, I highly recommend that you read that plan document, as Jakarta EE 9 represents a major inflection point in the platform.&lt;/p&gt;
+&lt;p&gt;The key elements of  this Jakarta EE 9 release plan are to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;move all specification APIs to the jakarta namespace (sometimes referred to as the “big bang”);&lt;/li&gt;
+&lt;li&gt;remove unwanted or deprecated specifications;&lt;/li&gt;
+&lt;li&gt;minor enhancements to a small number of specifications;&lt;/li&gt;
+&lt;li&gt;add no new specifications, apart from specifications pruned from Java SE 8 where appropriate; and&lt;/li&gt;
+&lt;li&gt;Java SE 11 support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What is not in the plan is the addition of any significant new functionality. That is because the goals of this Jakarta EE 9 release plan are to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lower the barrier of entry to new vendors and implementations to achieve compatibility;&lt;/li&gt;
+&lt;li&gt;make the release available rapidly as a platform for future innovation; and&lt;/li&gt;
+&lt;li&gt;provide a platform that developers can use as a stable target for testing migration to the new namespace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Moving a platform and ecosystem the size and scale of Jakarta EE takes time and careful planning. After a great deal of discussion the community consensus was that using EE 9 to provide a clear transition to the jakarta namespace, and to pare down the platform would be the best path to future success. While work on the EE 9 platform release is proceeding, individual component specification teams are encouraged to innovate in their individual specifications, which will hopefully lead to a rapid iteration towards the Jakarta EE 10 release.&lt;/p&gt;
+&lt;p&gt;Defining this release plan has been an enormous community effort. A lot of time and energy went into its development. It has been exciting to watch the … ummm &lt;i&gt;passionate&lt;/i&gt;…. discussions evolve towards a pretty broad consensus on this approach. I would like to particularly recognize the contributions of Steve Millidge, Kevin Sutter, Bill Shannon, David Blevins, and Scott Stark for their tireless and occasionally thankless work in guiding this process.&lt;/p&gt;
+&lt;p&gt;The Jakarta EE Working Group has been busy working on creating a Program Plan, Marketing Plan and Budget for 2020. The team has also been very busy with creating a plan for the Jakarta EE 9 release. The Jakarta EE Platform project team, as requested, has delivered a proposal plan to the Steering Committee. With their endorsement, it will be voted on by the Specification Committee at their first meeting in January 2020.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Retrospective&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Jakarta EE 9 release is going to be an important step in the evolution of the platform, but it is important to recognize the many accomplishments that happened in 2019 that made this plan possible.&lt;/p&gt;
+&lt;p&gt;First, the Eclipse Foundation and Oracle &lt;a href=&quot;https://blogs.eclipse.org/post/mike-milinkovich/update-jakarta-ee-rights-java-trademarks&quot;&gt;successfully completed some very complex negotiations&lt;/a&gt; about how Java EE would be evolved under the community-led Jakarta EE process. Although the Jakarta EE community cannot evolve the specifications under the javax namespace, we were still able to fully transition the Java EE specifications to the Eclipse Foundation. That transition led to the second major accomplishment in 2019: &lt;a href=&quot;https://blogs.eclipse.org/post/mike-milinkovich/welcome-future-cloud-native-java&quot;&gt;the first release of Jakarta EE&lt;/a&gt;. Those two milestones were, in my view, absolutely key accomplishments. They were enabled by a number of other large efforts, such as creating the &lt;a href=&quot;https://www.eclipse.org/projects/efsp/&quot;&gt;Eclipse Foundation Specification Process&lt;/a&gt;, significant revisions to our IP Policy, and establishing the &lt;a href=&quot;https://jakarta.ee/legal/trademark_guidelines/&quot;&gt;Jakarta EE compatibility program&lt;/a&gt;. But ultimately, the most satisfying result of all of this effort is the fact that we have seven fully compatible &lt;a href=&quot;https://jakarta.ee/compatibility/&quot;&gt;Jakarta EE 8 products&lt;/a&gt;, with more on the way.&lt;/p&gt;
+&lt;p&gt;The Jakarta EE community was also incredibly active in 2019. Here are just a few of the highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://jakartaone.org/2019/&quot;&gt;JakartaOne Livestream&lt;/a&gt; was a great success, with over 1400 attendees from around the world enjoying eighteen hours of material.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blogs.oracle.com/java/2019-dukes-choice-award-winners&quot;&gt;Jakarta EE is a 2019 Duke’s Choice Award Winner&lt;/a&gt;, recognizing its open source contribution.&lt;/li&gt;
+&lt;li&gt;We published the second annual &lt;a href=&quot;https://blogs.eclipse.org/post/mike-milinkovich/cloud-native-imperative-%E2%80%94-results-2019-jakarta-ee-developer-survey&quot;&gt;Jakarta EE Developers Survey&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2019 was a very busy year, and it laid the foundation for a very successful 2020. I, and the entire Jakarta EE community, look forward to the exciting progress and innovation coming in 2020.&lt;/p&gt;</description>
+	<pubDate>Thu, 16 Jan 2020 17:06:50 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Dirigible: Release 4.2</title>
+	<guid isPermaLink="false">http://dirigible.io/release/2020/01/14/news_new_release_4_2</guid>
+	<link>http://dirigible.io/release/2020/01/14/news_new_release_4_2.html</link>
+	<description>&lt;p&gt;New version &lt;a href=&quot;https://download.eclipse.org/dirigible/drops/R-4.2-202001141444/index.html&quot;&gt;4.2&lt;/a&gt; has been released.&lt;/p&gt;
+
+&lt;p&gt;Release is of &lt;em&gt;Type B&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;features&quot;&gt;Features&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OData artefact for declarative service exposure (*.odata)&lt;/li&gt;
+  &lt;li&gt;Pretty names parameter for tables and columns names&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;fixes&quot;&gt;Fixes&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dependencies fixes&lt;/li&gt;
+  &lt;li&gt;Minor fixes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;statistics&quot;&gt;Statistics&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;64K+ Sessions&lt;/li&gt;
+  &lt;li&gt;45K+ Users&lt;/li&gt;
+  &lt;li&gt;180 Countries&lt;/li&gt;
+  &lt;li&gt;356 Repositories in DirigibleLabs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;operational&quot;&gt;Operational&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Available packages for download - &lt;a href=&quot;https://download.eclipse.org/dirigible/drops/R-4.2-202001141444/index.html&quot;&gt;https://download.eclipse.org/dirigible/drops/R-4.2-202001141444/index.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Docker images at Docker Hub under DirigibleLabs organization:	&lt;a href=&quot;https://hub.docker.com/u/dirigiblelabs/&quot;&gt;https://hub.docker.com/u/dirigiblelabs/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Maven Central artifacts by org.eclipse.dirigible namespace: &lt;a href=&quot;https://mvnrepository.com/artifact/org.eclipse.dirigible&quot;&gt;https://mvnrepository.com/artifact/org.eclipse.dirigible&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The full list of bug-fixes and enhancements can be found here: &lt;a href=&quot;https://github.com/eclipse/dirigible/milestone/29?closed=1&quot;&gt;https://github.com/eclipse/dirigible/milestone/29?closed=1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The source code is available at GitHub repository here: &lt;a href=&quot;https://github.com/eclipse/dirigible/tree/4.2.0&quot;&gt;https://github.com/eclipse/dirigible/tree/4.2.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The instant trial is updated accordingly with the released version here: &lt;a href=&quot;http://trial.dirigible.io&quot;&gt;http://trial.dirigible.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;enjoy&quot;&gt;Enjoy!&lt;/h4&gt;</description>
+	<pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Jeremie Bresson: Building and running Equinox with maven without Tycho</title>
+	<guid isPermaLink="false">blog/2020/2020-01-13_equinox-without-tycho.html</guid>
+	<link>http://jmini.github.io/blog/2020/2020-01-13_equinox-without-tycho.html</link>
+	<description>&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;Eclipse Tycho is a great way to let maven build PDE based projects. But the Plug-in Development Environment (PDE) model is not the only way to work with OSGi.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;In particular, since 2 or 3 years the Eclipse Platform jars (including the Equinox jars) are regularly published on Maven Central (check the artifacts having &lt;code&gt;org.eclipse.platform&lt;/code&gt; as &lt;code&gt;groupId&lt;/code&gt;).&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;I was looking for an alternative to P2 and to the target-platform mechanism.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;imageblock&quot;&gt; 
+ &lt;div class=&quot;content&quot;&gt; 
+  &lt;img alt=&quot;bnd and bndtools logo&quot; src=&quot;http://jmini.github.io/blog/2020/2020-01-13_bnd-bndtools.png&quot; /&gt; 
+ &lt;/div&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;Bnd and Bndtools are always mentioned as potential alternative to PDE (I attended several talks discussing this at EclipseCon 2018: &lt;a href=&quot;https://www.eclipsecon.org/europe2018/sessions/migrating-pde-bndtools-practice&quot;&gt;Migrating from PDE to Bndtools in Practice&lt;/a&gt;, &lt;a href=&quot;https://www.eclipsecon.org/europe2018/sessions/zero-professional-osgi-project-minutes&quot;&gt;From Zero to a Professional OSGi Project in Minutes&lt;/a&gt;). So I decided to explore this path.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;This StackOverflow question catches my attention: &lt;a href=&quot;https://stackoverflow.com/questions/52776222/how-to-start-with-osgi&quot;&gt;How to start with OSGi&lt;/a&gt;. I had a close look at the answer provided by Peter Kriens (the founder of the Bnd and Bndtools projects), where he discusses the different possible setup:&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;ulist&quot;&gt; 
+ &lt;ul&gt; 
+  &lt;li&gt; &lt;p&gt;Maven Only&lt;/p&gt; &lt;/li&gt; 
+  &lt;li&gt; &lt;p&gt;Gradle Only&lt;/p&gt; &lt;/li&gt; 
+  &lt;li&gt; &lt;p&gt;Eclipse, M2E, Maven, and Bndtools&lt;/p&gt; &lt;/li&gt; 
+  &lt;li&gt; &lt;p&gt;Eclipse, Bndtools, Gradle&lt;/p&gt; &lt;/li&gt; 
+ &lt;/ul&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;Even in the &quot;Maven Only&quot; or &quot;Gradle Only&quot; setups, the proposed solution relies on plugins using bnd under the hood.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;imageblock&quot;&gt; 
+ &lt;div class=&quot;content&quot;&gt; 
+  &lt;img alt=&quot;How to start?&quot; src=&quot;http://jmini.github.io/blog/2020/2020-01-13_how-to-start.png&quot; /&gt; 
+ &lt;/div&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;My project is quite simple, the dependencies are already on maven central. I will not have a complex use-case with multiple versions of the same library or with platform dependent artifacts. So fetching the dependencies with maven is sufficient.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;I decided to try the &quot;Maven Only&quot; model.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;imageblock&quot;&gt; 
+ &lt;div class=&quot;content&quot;&gt; 
+  &lt;img alt=&quot;How to start?&quot; src=&quot;http://jmini.github.io/blog/2020/2020-01-13_effective-osgi-logo.png&quot; /&gt; 
+ &lt;/div&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;I was not sure to understand how to use the different &lt;a href=&quot;https://github.com/bndtools/bnd/tree/master/maven/bnd-maven-plugin&quot;&gt;bnd maven plugins&lt;/a&gt;: &lt;code&gt;bnd-maven-plugin&lt;/code&gt;, &lt;code&gt;bnd-indexer-maven-plugin&lt;/code&gt;, &lt;code&gt;bnd-testing-maven-plugin&lt;/code&gt;, &lt;code&gt;bnd-export-maven-plugin&lt;/code&gt; …&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;Luckily I found the slides of the &lt;a href=&quot;https://www.slideshare.net/mfrancis/bndtools-and-maven-a-brave-new-world-n-bartlett-t-ward&quot;&gt;Bndtools and Maven: A Brave New World&lt;/a&gt; workshop (given at EclipseCon 2017) and the corresponding git repository: &lt;a href=&quot;https://github.com/paremus/osgi-community-event2017&quot;&gt;osgi-community-event2017&lt;/a&gt;.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;The corresponding &lt;a href=&quot;https://github.com/effectiveosgi/maven-archetypes&quot;&gt;effective-osgi maven archetypes&lt;/a&gt; used during the workshop are still working well. I could follow the step-by-step guide (in the readme of the maven archetypes project). I got everything working as described and I could find enough explanations about the generated projects. I think I understood what I did and this is very important when you start.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;After some cleanup and a switch from Apache Felix to Eclipse Equinox, I got my running setup and I answered my question: &quot;&lt;em&gt;How to start with OSGi without PDE and Tycho&lt;/em&gt;&quot;.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;The corresponding code is in this folder: &lt;a href=&quot;https://github.com/jmini/bnd-experiments/tree/master/effectiveosgi-example&quot;&gt;effectiveosgi-example&lt;/a&gt;.&lt;/p&gt; 
+&lt;/div&gt;</description>
+	<pubDate>Sun, 12 Jan 2020 23:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Tanja Obradovic: Jakarta EE Community Update January 2020</title>
+	<guid isPermaLink="false">6754 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/tanja-obradovic/jakarta-ee-community-update-january-2020</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Welcome to our first update of 2020. As we start the new year, I want to wish you all the best. We have a lot to look forward to in 2020 as it will be the first year with multiple Jakarta EE releases. What a bright and optimistic way to start a new year!&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;As we ramp up our 2020 activities, here’s a look back at Jakarta EE highlights from the last few weeks in November and December of 2019. &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;The Jakarta EE 8 Retrospective Is Complete&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;As we mentioned in our last update, the Jakarta EE Steering Committee asked the community to provide feedback on the Jakarta EE 8 release so we can make improvements in Jakarta EE 9 and future releases.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;We’re happy to tell you that feedback has now been collected, analyzed, and summarized. &lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;To learn more about the results of the retrospective, keep an eye out for a blog post on the topic, but also, please join us for the January 15 at 11:00 a.m. EST using&lt;a href=&quot;https://eclipse.zoom.us/j/267901694&quot;&gt; this meeting ID&lt;/a&gt; where this topic will be on the Agenda.&lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt; The Jakarta EE 9 Release Plan Is Ready for Specification Committee Review&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The Jakarta EE Platform Project team, led by Kevin Sutter and Steve Millidge, has been working very hard to create the detailed Jakarta EE 9 release plan. As promised, the plan has been created, presented, and endorsed by the Jakarta EE Steering Committee. The next step is for the Specification Committee to review it and vote on it early this year.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;You can read the minutes of the Jakarta EE Platform Project team meetings&lt;a href=&quot;https://eclipse-ee4j.github.io/jakartaee-platform/minutes/minutes.html&quot;&gt; here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;For the latest updates on Jakarta EE 9 release planning, listen to the recording of the December Jakarta EE update call &lt;a href=&quot;http://www.crowdcast.io/e/communitycall_jan&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Reminder: We Need Your Help to Jakartify Specifications&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Just a reminder that we now have the copyright for quite a number of Java EE specifications and we need the community to Jakartify them so they can be contributed to Jakarta EE.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;To help you get started:&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·      The Specification Committee has created a document that explains&lt;a href=&quot;https://github.com/jakartaee/specification-committee/blob/master/steps_javaee_to_jakartaee.adoc&quot;&gt; how to convert Java EE specifications to Jakarta EE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·      Ivar Grimstad provided a demo during the community call in October. You can&lt;a href=&quot;https://www.youtube.com/watch?v=s8Kwz5_u88Y&amp;amp;list=PLy7t4z5SYNaSY0Um6Vbez3G5Lc2AMaMw7&amp;amp;index=5&quot;&gt; view it here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;And, here’s the list of specifications that are ready for the community to Jakartify.&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Annotations&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Enterprise Beans&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Expression Language&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Security&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Server Faces&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Interceptors&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Authorization&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Activation&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Managed Beans&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Deployment&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta XML RPC&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Authentication&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Mail&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta XML Binding&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta RESTful Web Services&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Web Services Metadata&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta XML Web Services&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Connectors&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Persistence&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta JSON Binding&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta JSON Processing&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Debugging Support for Other Languages&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Server Pages&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta Transactions&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt;• Jakarta WebSocket&lt;/p&gt;
+
+			&lt;p dir=&quot;ltr&quot;&gt; &lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Jakarta EE 2020 Marketing Plan Finalized&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The Jakarta EE Marketing Operations Report for Q3 2019 was presented during the December Marketing Committee call. The report includes market activities and metrics for planned versus actual activities in Q3 and was generally well received by the committee.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;You can read the meeting minutes&lt;a href=&quot;https://jakarta.ee/meeting_minutes/&quot;&gt; here&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Upcoming Events&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Here’s a brief look at two upcoming Jakarta EE events to mark on your calendar:&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·      JakartaOne Livestream – Japan, February 26&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;With the success of the JakartaOne Livestream event in September 2019, we’re expanding the initiative with more virtual conferences in more languages. Our next event is&lt;a href=&quot;https://jakartaone.org/japan2020/&quot;&gt; JakartaOne Livestream - Japan&lt;/a&gt; scheduled for February 26. Please follow the event on Twitter @JakartaOneJPN for all the details. Registration will open shortly. &lt;strong&gt;Keep in mind this entire event will be presented in Japanese&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·      Cloud Native for Java (CN4J) Day at KubeCon Amsterdam, March 30&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;CN4J day on March 30 is a full day (9:00 a.m.-5:00 p.m.) of expert talks, demos, and thought-provoking sessions focused on enterprise applications implemented using Jakarta EE and Eclipse MicroProfile on Kubernetes. This event is a great opportunity to meet with industry and community leaders, to better understand key aspects of Jakarta EE and MicroProfile technologies, and to share your ideas with ecosystem innovators. Learn more about the event&lt;a href=&quot;https://eclipse-5413615.hs-sites.com/cn4j-day&quot;&gt; here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Join Community Update Calls&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Every month, the Jakarta EE community holds a community call for everyone in the Jakarta EE community. For upcoming dates and connection details, see the&lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot;&gt; Jakarta EE Community Calendar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt; Our next call is Wednesday, January 15 at 11:00 a.m. EST using&lt;a href=&quot;https://www.crowdcast.io/e/communitycall_jan&quot;&gt; this meeting ID&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;We know it’s not always possible to join calls in real time, so here are links to the recordings and presentations:&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·     &lt;a href=&quot;https://www.youtube.com/playlist?list=PLy7t4z5SYNaSY0Um6Vbez3G5Lc2AMaMw7&quot;&gt; The complete playlist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·     &lt;a href=&quot;https://www.youtube.com/watch?v=yrHCCAv65L0&amp;amp;list=PLy7t4z5SYNaSY0Um6Vbez3G5Lc2AMaMw7&amp;amp;index=2&amp;amp;t=326s&quot;&gt; December 11 call&lt;/a&gt; and&lt;a href=&quot;https://drive.google.com/drive/u/0/folders/16xP9-kEidAB6s_TEDPimSBCS2T5XNczc&quot;&gt; presentation&lt;/a&gt;, featuring Steve Millage discussing Jakarta EE 9 release planning, an update on Jakartifying specifications from Ivar Grimstad, and a call for action to help with the&lt;a href=&quot;https://www.youtube.com/watch?v=XYFYUKmK22g&amp;amp;list=PLy7t4z5SYNaSY0Um6Vbez3G5Lc2AMaMw7&amp;amp;index=4&amp;amp;t=3s&quot;&gt; Jakarta EE 2020 Program Plan and budget&lt;/a&gt; from Jakarta EE Steering Committee chair, Will Lyons.&lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;November and December Event Summary&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;We ended a very exciting year for Jakarta EE by participating in three major events:  &lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·     &lt;a href=&quot;https://devoxx.be/&quot;&gt; Devoxx BE&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·     &lt;a href=&quot;https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/&quot;&gt; KubeCon NA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;·     &lt;a href=&quot;https://2019.java2days.com/tag/sofia/&quot;&gt; Java2Days&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;We had members presenting at all three events and we’d like to sincerely thank them for their time and effort. A special shout-out to our Jakarta EE Developer Advocate, Ivar Grimstad, who presented multiple times and participated in a panel discussion at Java2Days.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Our members were also on hand at our booths at Devoxx BE and KubeCon NA to share their expertise, provide demos, and engage with attendees. Again, a huge thank you to everyone involved for their enthusiastic participation. Your engagement helps drive the success of the entire Jakarta EE community.&lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;Stay Connected With the Jakarta EE Community&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The Jakarta EE community is very active and there are a number of channels to help you stay up to date with all of the latest and greatest news and information. Tanja Obradovic’s&lt;a href=&quot;https://blogs.eclipse.org/post/tanja-obradovic/jakarta-ee-community-engagement&quot;&gt; blog&lt;/a&gt; summarizes the community engagement plan, which includes:&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;•  Social media:&lt;a href=&quot;https://twitter.com/jakartaee&quot;&gt; Twitter&lt;/a&gt;,&lt;a href=&quot;https://www.facebook.com/JakartaEE/&quot;&gt; Facebook&lt;/a&gt;,&lt;a href=&quot;https://www.linkedin.com/groups/13597511/&quot;&gt; LinkedIn Group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;•  Mailing lists: jakarta.ee-community@eclipse.org and jakarta.ee-wg@eclipse.org&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;•  Newsletters, blogs, and emails:&lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot;&gt; Eclipse newsletter&lt;/a&gt;,&lt;a href=&quot;https://jakartablogs.ee/#main-content&quot;&gt; Jakarta EE blogs&lt;/a&gt;, monthly update emails to jakarta.ee-community@eclipse.org, and community blogs on&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1JflN_xJ9d5ZWu5VUbDV9Spj7mc8WuPGMfd6EZgabXz0/edit#gid=0&quot;&gt; “how are you involved with Jakarta EE”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;•  Meetings:&lt;a href=&quot;https://www.meetup.com/jakartatechtalks_/&quot;&gt; Jakarta Tech Talks&lt;/a&gt;,&lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot;&gt; Jakarta EE Update&lt;/a&gt;, Jakarta Town Hall, and Eclipse Foundation events and conferences&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Subscribe to your preferred channels today. And, get involved in the&lt;a href=&quot;https://jakarta.ee/membership/&quot;&gt; Jakarta EE Working Group&lt;/a&gt; to help shape the future of open source, cloud native Java.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;To learn more about Jakarta EE-related plans and check the date for the next Jakarta Tech Talk, be sure to bookmark the&lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot;&gt; Jakarta EE Community Calendar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Thu, 09 Jan 2020 14:26:25 +0000</pubDate>
 </item>
 <item>
 	<title>Chris Aniszczyk: 4 Years at The Linux Foundation</title>
@@ -238,17 +901,10 @@
 	<pubDate>Wed, 18 Dec 2019 01:45:29 +0000</pubDate>
 </item>
 <item>
-	<title>Eclipse Announcements: Close to the Edge</title>
-	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/lBwekVszvSg/close-edge</guid>
-	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/lBwekVszvSg/close-edge</link>
-	<description>Today we are launching our new Edge Native Working Group to help drive the industry platform for edge computing.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/lBwekVszvSg&quot; width=&quot;1&quot; /&gt;</description>
-	<pubDate>Tue, 17 Dec 2019 14:00:00 +0000</pubDate>
-</item>
-<item>
 	<title>vert.x project: Eclipse Vert.x 4 milestone 4 released!</title>
 	<guid isPermaLink="true">https://vertx.io/blog/eclipse-vert-x-4-milestone-4-released</guid>
 	<link>https://vertx.io/blog/eclipse-vert-x-4-milestone-4-released</link>
-	<description>&lt;article&gt;&lt;p&gt;We are extremely pleased to announce the forth 4.0 milestone release of Eclipse Vert.x .&lt;/p&gt;
+	<description>&lt;article&gt;&lt;p&gt;We are extremely pleased to announce the fourth 4.0 milestone release of Eclipse Vert.x .&lt;/p&gt;
 &lt;p&gt;Vert.x 4 is the evolution of the Vert.x 3.x series that will bring key features to Vert.x.&lt;/p&gt;
 &lt;p&gt;This release aims to provide a reliable distribution of the current development of Vert.x 4 for people that
 want to try it and provide feedback.&lt;/p&gt;
@@ -317,7 +973,7 @@ in the 3.x series.&lt;/p&gt;
 	<title>Donald Raab: Eclipse Collections 10.1 Released</title>
 	<guid isPermaLink="false">https://medium.com/p/edfdc50ec0f4</guid>
 	<link>https://medium.com/oracledevs/eclipse-collections-10-1-released-edfdc50ec0f4?source=rss-df39b86e9f04------2</link>
-	<description>&lt;p&gt;This is tenth &lt;a href=&quot;https://projects.eclipse.org/projects/technology.collections/governance&quot;&gt;release review&lt;/a&gt; and the fourth year for &lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;Eclipse Collections&lt;/a&gt; as a project at the &lt;a href=&quot;https://www.eclipse.org/&quot;&gt;Eclipse Foundation&lt;/a&gt;.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*udnV3YoEL34DvKDQXjuaIw.jpeg&quot; /&gt;&lt;figcaption&gt;Eclipse Collections t-shirts made by my wife with her &lt;a href=&quot;https://cricut.com/&quot;&gt;Cricut Maker&lt;/a&gt; for EC Contributors and Advocates&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Thank you to the contributors&lt;/h3&gt;&lt;p&gt;First, I want to give a big shout-out and thank you to all the contributors who took time and contributed to this &lt;a href=&quot;https://github.com/eclipse/eclipse-collections/releases/tag/10.1.0&quot;&gt;release&lt;/a&gt;. This was a minor feature release but there are some notable additions to the library and the Eclipse Collections community. We also have some new first time contributors to Eclipse Collections and OSS, and I want to say congratulations, welcome, and thank you!&lt;/p&gt;&lt;h3&gt;New Features&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;Implemented RichIterable.groupByAndCollect.&lt;/li&gt;&lt;/ol&gt;&lt;pre&gt;@Test&lt;br /&gt;public void groupByAndCollect()&lt;br /&gt;{&lt;br /&gt;    MutableList&amp;lt;String&amp;gt; list =&lt;br /&gt;            Lists.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.with(&lt;strong&gt;&quot;One&quot;&lt;/strong&gt;, &lt;strong&gt;&quot;Two&quot;&lt;/strong&gt;, &lt;strong&gt;&quot;Three&quot;&lt;/strong&gt;);&lt;/pre&gt;&lt;pre&gt;    MutableMultimap&amp;lt;Character, String&amp;gt; multimap =&lt;br /&gt;            list.groupByAndCollect(&lt;br /&gt;                    each -&amp;gt; each.charAt(0),&lt;br /&gt;                    String::toUpperCase,&lt;br /&gt;                    Multimaps.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.list.empty());&lt;/pre&gt;&lt;pre&gt;    MutableListMultimap&amp;lt;Character, String&amp;gt; expected =&lt;br /&gt;            Multimaps.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.list.with(&lt;strong&gt;'O'&lt;/strong&gt;, &lt;strong&gt;&quot;ONE&quot;&lt;/strong&gt;, &lt;strong&gt;'T'&lt;/strong&gt;, &lt;strong&gt;&quot;TWO&quot;&lt;/strong&gt;, &lt;strong&gt;'T'&lt;/strong&gt;, &lt;strong&gt;&quot;THREE&quot;&lt;/strong&gt;);&lt;/pre&gt;&lt;pre&gt;    Assert.&lt;em&gt;assertEquals&lt;/em&gt;(expected, multimap);&lt;br /&gt;}&lt;/pre&gt;&lt;p&gt;2. Implemented NoopProcedure.&lt;/p&gt;&lt;pre&gt;@Test&lt;br /&gt;public void noopProcedure()&lt;br /&gt;{&lt;br /&gt;    MutableList&amp;lt;Integer&amp;gt; list = Lists.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.with(1, 2, 3);&lt;br /&gt;    list.forEach(Procedures.&lt;em&gt;noop&lt;/em&gt;());&lt;br /&gt;&lt;br /&gt;    Assert.&lt;em&gt;assertEquals&lt;/em&gt;(Lists.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.with(1, 2, 3), list);&lt;br /&gt;}&lt;/pre&gt;&lt;h3&gt;Other Improvements&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/es/index.html&quot;&gt;Spanish Translation&lt;/a&gt; of the Eclipse Collections website.&lt;/li&gt;&lt;li&gt;Updated documentation for creating/modifying Immutable Collections.&lt;/li&gt;&lt;li&gt;Fixed variable name in Multimaps class for ImmutableSortedBagFactory.&lt;/li&gt;&lt;li&gt;Fixed generated Eclipse features for p2 repository to ensure correct EPLv1 license is downloaded.&lt;/li&gt;&lt;li&gt;Fixed generated Eclipse features for p2 repository to ensure correct signatures on artifacts.&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;Bug Fixes&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;Fixed IntInterval.fromToBy() for same values of from and to with a negative step.&lt;/li&gt;&lt;li&gt;Fixed IntInterval.injectInto() for same values of from and to with a negative step.&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;Four years at the Eclipse Foundation&lt;/h3&gt;&lt;p&gt;This month we will celebrate the four year anniversary of Eclipse Collections as a project at the Eclipse Foundation. I am happy to report that Eclipse Collections is still going strong! We continue to grow our community of contributors, users, and advocates. Everyone I know that uses Eclipse Collections in their projects really appreciates the richness and symmetry of the API, and the productivity and performance of the library. Thank you to everyone in the Eclipse Collections community for your support!&lt;/p&gt;&lt;p&gt;Eclipse Collections 10.1 will also be included in the upcoming Eclipse IDE release.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://projects.eclipse.org/releases/2019-12&quot;&gt;Eclipse IDE 2019-12&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;Eclipse Collections can be used in any Java project and with any Java IDE. Eclipse Collections has no runtime dependencies on any other library and does not depend on the Eclipse IDE. The library is available in Maven Central and as an OSGi Bundle.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*EQWYgzuuuxXpqAqqvuCblw.png&quot; /&gt;&lt;/figure&gt;&lt;h3&gt;Thank you&lt;/h3&gt;&lt;p&gt;From all the contributors and committers… thank you for using Eclipse Collections. We hope you enjoy all of the new features and improvements in the &lt;a href=&quot;https://medium.com/oracledevs/eclipse-collections-10-0-released-49bae6a4b4c6?source=friends_link&amp;amp;sk=a94837d5317ce2863be2c259fee8db41&quot;&gt;10.0&lt;/a&gt; and &lt;a href=&quot;https://github.com/eclipse/eclipse-collections/releases/tag/10.1.0&quot;&gt;10.1&lt;/a&gt; releases.&lt;/p&gt;&lt;p&gt;Have a safe, healthy and happy holiday season! If you like Eclipse Collections, join the other &lt;a href=&quot;https://github.com/eclipse/eclipse-collections/stargazers&quot;&gt;stargazers&lt;/a&gt; and give the repo a star on &lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;&lt;em&gt;Eclipse Collections&lt;/em&gt;&lt;/a&gt;&lt;em&gt; is open for &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md&quot;&gt;&lt;em&gt;contributions&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you like the library, you can let us know by starring it on GitHub.&lt;/em&gt;&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=edfdc50ec0f4&quot; width=&quot;1&quot; /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/oracledevs/eclipse-collections-10-1-released-edfdc50ec0f4&quot;&gt;Eclipse Collections 10.1 Released&lt;/a&gt; was originally published in &lt;a href=&quot;https://medium.com/oracledevs&quot;&gt;Oracle Developers&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
+	<description>&lt;p&gt;This is tenth &lt;a href=&quot;https://projects.eclipse.org/projects/technology.collections/governance&quot;&gt;release review&lt;/a&gt; and the fourth year for &lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;Eclipse Collections&lt;/a&gt; as a project at the &lt;a href=&quot;https://www.eclipse.org/&quot;&gt;Eclipse Foundation&lt;/a&gt;.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*udnV3YoEL34DvKDQXjuaIw.jpeg&quot; /&gt;&lt;figcaption&gt;Eclipse Collections t-shirts made by my wife with her &lt;a href=&quot;https://cricut.com/&quot;&gt;Cricut Maker&lt;/a&gt; for EC Contributors and Advocates&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;Thank you to the contributors&lt;/h3&gt;&lt;p&gt;First, I want to give a big shout-out and thank you to all the contributors who took time and contributed to this &lt;a href=&quot;https://github.com/eclipse/eclipse-collections/releases/tag/10.1.0&quot;&gt;release&lt;/a&gt;. This was a minor feature release but there are some notable additions to the library and the Eclipse Collections community. We also have some new first time contributors to Eclipse Collections and OSS, and I want to say congratulations, welcome, and thank you!&lt;/p&gt;&lt;h3&gt;New Features&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;Implemented RichIterable.groupByAndCollect.&lt;/li&gt;&lt;/ol&gt;&lt;pre&gt;@Test&lt;br /&gt;public void groupByAndCollect()&lt;br /&gt;{&lt;br /&gt;    MutableList&amp;lt;String&amp;gt; list =&lt;br /&gt;            Lists.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.with(&lt;strong&gt;&quot;One&quot;&lt;/strong&gt;, &lt;strong&gt;&quot;Two&quot;&lt;/strong&gt;, &lt;strong&gt;&quot;Three&quot;&lt;/strong&gt;);&lt;/pre&gt;&lt;pre&gt;    MutableMultimap&amp;lt;Character, String&amp;gt; multimap =&lt;br /&gt;            list.groupByAndCollect(&lt;br /&gt;                    each -&amp;gt; each.charAt(0),&lt;br /&gt;                    String::toUpperCase,&lt;br /&gt;                    Multimaps.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.list.empty());&lt;/pre&gt;&lt;pre&gt;    MutableListMultimap&amp;lt;Character, String&amp;gt; expected =&lt;br /&gt;            Multimaps.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.list.with(&lt;strong&gt;'O'&lt;/strong&gt;, &lt;strong&gt;&quot;ONE&quot;&lt;/strong&gt;, &lt;strong&gt;'T'&lt;/strong&gt;, &lt;strong&gt;&quot;TWO&quot;&lt;/strong&gt;, &lt;strong&gt;'T'&lt;/strong&gt;, &lt;strong&gt;&quot;THREE&quot;&lt;/strong&gt;);&lt;/pre&gt;&lt;pre&gt;    Assert.&lt;em&gt;assertEquals&lt;/em&gt;(expected, multimap);&lt;br /&gt;}&lt;/pre&gt;&lt;p&gt;2. Implemented NoopProcedure.&lt;/p&gt;&lt;pre&gt;@Test&lt;br /&gt;public void noopProcedure()&lt;br /&gt;{&lt;br /&gt;    MutableList&amp;lt;Integer&amp;gt; list = Lists.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.with(1, 2, 3);&lt;br /&gt;    list.forEach(Procedures.&lt;em&gt;noop&lt;/em&gt;());&lt;br /&gt;&lt;br /&gt;    Assert.&lt;em&gt;assertEquals&lt;/em&gt;(Lists.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.with(1, 2, 3), list);&lt;br /&gt;}&lt;/pre&gt;&lt;h3&gt;Other Improvements&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/es/index.html&quot;&gt;Spanish Translation&lt;/a&gt; of the Eclipse Collections website.&lt;/li&gt;&lt;li&gt;Updated documentation for creating/modifying Immutable Collections.&lt;/li&gt;&lt;li&gt;Fixed variable name in Multimaps class for ImmutableSortedBagFactory.&lt;/li&gt;&lt;li&gt;Fixed generated Eclipse features for p2 repository to ensure correct EPLv1 license is downloaded.&lt;/li&gt;&lt;li&gt;Fixed generated Eclipse features for p2 repository to ensure correct signatures on artifacts.&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;Bug Fixes&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;Fixed IntInterval.fromToBy() for same values of from and to with a negative step.&lt;/li&gt;&lt;li&gt;Fixed IntInterval.injectInto() for same values of from and to with a negative step.&lt;/li&gt;&lt;/ol&gt;&lt;h3&gt;Four years at the Eclipse Foundation&lt;/h3&gt;&lt;p&gt;This month we will celebrate the four year anniversary of Eclipse Collections as a project at the Eclipse Foundation. I am happy to report that Eclipse Collections is still going strong! We continue to grow our community of contributors, users, and advocates. Everyone I know that uses Eclipse Collections in their projects really appreciates the richness and symmetry of the API, and the productivity and performance of the library. Thank you to everyone in the Eclipse Collections community for your support!&lt;/p&gt;&lt;p&gt;Eclipse Collections 10.1 will also be included in the upcoming Eclipse IDE release.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://projects.eclipse.org/releases/2019-12&quot;&gt;Eclipse IDE 2019-12&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Note: &lt;/strong&gt;Eclipse Collections can be used in any Java project and with any Java IDE. Eclipse Collections has no runtime dependencies on any other library and does not depend on the Eclipse IDE. The library is available in Maven Central and as an OSGi Bundle.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*EQWYgzuuuxXpqAqqvuCblw.png&quot; /&gt;&lt;/figure&gt;&lt;h3&gt;Thank you&lt;/h3&gt;&lt;p&gt;From all the contributors and committers… thank you for using Eclipse Collections. We hope you enjoy all of the new features and improvements in the &lt;a href=&quot;https://medium.com/oracledevs/eclipse-collections-10-0-released-49bae6a4b4c6?source=friends_link&amp;amp;sk=a94837d5317ce2863be2c259fee8db41&quot;&gt;10.0&lt;/a&gt; and &lt;a href=&quot;https://github.com/eclipse/eclipse-collections/releases/tag/10.1.0&quot;&gt;10.1&lt;/a&gt; releases.&lt;/p&gt;&lt;p&gt;Have a safe, healthy and happy holiday season! If you like Eclipse Collections, join the other &lt;a href=&quot;https://github.com/eclipse/eclipse-collections/stargazers&quot;&gt;stargazers&lt;/a&gt; and give the repo a star on &lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;&lt;em&gt;Eclipse Collections&lt;/em&gt;&lt;/a&gt;&lt;em&gt; is open for &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md&quot;&gt;&lt;em&gt;contributions&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you like the library, you can let us know by starring it on GitHub.&lt;/em&gt;&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=edfdc50ec0f4&quot; width=&quot;1&quot; /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/oracledevs/eclipse-collections-10-1-released-edfdc50ec0f4&quot;&gt;Eclipse Collections 10.1 Released&lt;/a&gt; was originally published in &lt;a href=&quot;https://medium.com/oracledevs&quot;&gt;Oracle Groundbreakers&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
 	<pubDate>Thu, 12 Dec 2019 18:24:03 +0000</pubDate>
 </item>
 <item>
@@ -408,37 +1064,7 @@ as well as &lt;a href=&quot;https://repo1.maven.org/maven2/org/eclipse/ditto/&qu
 
 &lt;p&gt;–&lt;br /&gt;
 The Eclipse Ditto team&lt;/p&gt;</description>
-	<pubDate>Thu, 12 Dec 2019 05:00:00 +0000</pubDate>
-</item>
-<item>
-	<title>Mike Milinkovich: Close to the Edge</title>
-	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1516</guid>
-	<link>https://eclipse-foundation.blog/2019/12/10/close-to-the-edge/</link>
-	<description>&lt;p&gt;Today we are launching our new &lt;a href=&quot;http://edgenative.eclipse.org/&quot;&gt;Edge Native Working Group&lt;/a&gt; to help drive the industry platform for edge computing. The new group has hit the ground running with everything needed to accelerate adoption of enterprise applications at the edge: a mature code base that’s already widely deployed in production environments, strong endorsements and participation from industry heavyweights, &lt;a href=&quot;https://github.com/kubernetes/community/tree/master/wg-iot-edge&quot;&gt;strong collaborations&lt;/a&gt; with other industry organizations such as the CNCF, and a deep understanding of the key challenges ahead.&lt;/p&gt;
-&lt;p&gt;But before turning to the details of the announcement, let’s talk a little about how edge computing differs from related technologies such as cloud and IoT.&lt;/p&gt;
-&lt;p&gt;To me, edge computing differs from IoT in that IoT is historically a bottom up approach. The people who talk about IoT are likely coming from an embedded systems or industrial automation background, and are looking for new, open stacks to connect their OT systems to modern cloud infrastructure.&lt;/p&gt;
-&lt;p&gt;Edge computing is more of a top down approach where people are looking for how they can take the new generation of cloud infrastructure and use it to solve problems at the edge of the network. Edge computing does not necessarily differ from cloud computing in terms of compute power (multiprocessor 64-bit x86 or ARM with gigabytes of RAM) or software stack (containers, Kubernetes, and microservices). The single most important differentiator between cloud compute and edge compute is simply “do you know (or care) where the resources are located”? If the answer to that is yes, then you are in the realm of edge computing. In addition, the requirement to deal with the transparent orchestration of microservices from cloud to edge is key.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Edge Accelerates Applications&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Artificial intelligence (AI) and autonomous vehicle applications are two great examples of why there is massive interest in edge computing. Pushing applications out to the edge of the network is the only way to efficiently transfer and analyze the massive amounts of data AI applications rely on. And, it’s the only way to achieve the sub-one-millisecond latency autonomous vehicle applications require.&lt;/p&gt;
-&lt;p&gt;With the Edge Native Working Group, the global community can collaborate to evolve the commercial-grade, production-ready code base we already have in Eclipse ​&lt;a href=&quot;https://iofog.org/&quot;&gt;ioFog&lt;/a&gt;​, Eclipse ​&lt;a href=&quot;https://projects.eclipse.org/projects/iot.fog05&quot;&gt;fog05&lt;/a&gt;​, and other projects to address technical issues that are specific to the edge:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Running applications on a wider variety of hardware than you would find in a data center&lt;/li&gt;
-&lt;li&gt;Dealing with the fact that at the edge, the physical location of your resources matters&lt;/li&gt;
-&lt;li&gt;Maintaining communications when you’re forced to rely on low-bandwidth, intermittent network connections while also scaling to scenarios that rely on 5G and other high bandwidth technologies&lt;/li&gt;
-&lt;li&gt;Ensuring the security of edge devices that are often installed in easily accessible locations (&lt;a href=&quot;https://github.com/kubernetes/community/tree/master/wg-iot-edge/whitepapers/edge-security-challenges&quot;&gt;read the Edge Security Challenges whitepaper&lt;/a&gt; published by the Kubernetes IoT Edge working group)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Resolving these challenges will allow the Edge Native Working Group to bring EdgeOps — DevOps for the edge — to the world so developers can write software and can deploy, run, and manage it where it needs to, whether that’s on an MRI machine in a hospital, a motion-activated camera in a farmer’s field, or a fleet of vehicles.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The Market for Edge Computing Is Here and It’s Huge&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Interest in resolving edge-specific issues is extremely high. Our founding member list is an impressive group of industry leaders, such as ADLINK, Bosch, Edgeworx, Eurotech, Kynetics, Huawei, Intel, and Siemens. We’re also actively engaged in discussions with other influential global players and expect to share news about additional working group members in the near future.&lt;/p&gt;
-&lt;p&gt;The stature and breadth of companies joining the Edge Native Working Group confirms the need for an open source industry group with edge code that’s ready to be used in serious deployments. According to a 2019 Allied Market Research report, edge computing is forecast to generate a market worth $16.5 billion within the next five years.&lt;/p&gt;
-&lt;p&gt;The business potential at the edge is as varied as the companies joining the working group. For a chip developer, the Edge Native Working Group offers access to an industry ecosystem that can showcase the speed of their products in AI and data analytics applications at the edge. A global telecom player can ensure its products are aligned with edge computing standards to enable 5G applications at the edge.&lt;/p&gt;
-&lt;p&gt;And on it goes, with the potential for companies in any industry to leverage the open platforms the Edge Native Working Group is developing to build customized edge applications for their specific markets and opportunities.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Get Closer to the Edge at the Eclipse Foundation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Critical new initiatives, such as the creation of the Edge Native Working Group, can only happen when Eclipse Foundation community members come together to drive them forward. I want to sincerely thank everyone involved in getting the Edge Native Working Group off the ground for their dedication and meaningful contributions. The tremendous interest and success we’ve experienced so far is a true testament to the value of the time and effort this very devoted team has committed to the project.&lt;/p&gt;
-&lt;p&gt;With the incredibly broad and bright future the Eclipse Edge Native Working Group offers, I encourage everyone to visit &lt;a href=&quot;http://edgenative.eclipse.org/&quot;&gt;http://edgenative.eclipse.org/&lt;/a&gt;, review the ​&lt;a href=&quot;https://www.eclipse.org/org/workinggroups/eclipse_edge_charter.php&quot;&gt;charter&lt;/a&gt;​ and the ​&lt;a href=&quot;https://www.eclipse.org/org/workinggroups/wpga/eclipse_edge_working_group_participation_agreement.pdf&quot;&gt;Edge Native Working Group Participation Agreement (WPGA)&lt;/a&gt;, or email us at membership@eclipse.org for more information. You can also join the working group’s&lt;a href=&quot;https://accounts.eclipse.org/mailing-list/edge-wg&quot;&gt; mailing list&lt;/a&gt; to receive progress updates.&lt;/p&gt;
-&lt;p&gt;If you’ll be attending Edge Computing World on Dec 9-12 in San Jose, California, be sure to attend the &lt;a href=&quot;https://www.edgecomputingworld.com/agenda/developer-workshop-eclipse-edge-tools-iofog-and-fog05/?t=t8&quot;&gt;Eclipse Edge Tools&lt;/a&gt; developer workshop on Tuesday, December 10 at 11:30 AM local time. Also, drop by and see us at our table in the main foyer on the second floor of the Computer History Museum, where we’ll be showcasing the ioFog, ​fog05​, and the Edge Native Working Group.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</description>
-	<pubDate>Tue, 10 Dec 2019 12:00:26 +0000</pubDate>
+	<pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>itemis: Xtext 2.20 Release</title>
@@ -569,64 +1195,6 @@ My team will help him to grow, you, our users, our customers will be part of its
 	<pubDate>Mon, 02 Dec 2019 10:00:00 +0000</pubDate>
 </item>
 <item>
-	<title>Wayne Beaton: Eclipse Committer and Contributor Paperwork</title>
-	<guid isPermaLink="false">http://waynebeaton.wordpress.com/?p=5607</guid>
-	<link>https://waynebeaton.wordpress.com/2019/11/27/eclipse-committer-and-contributor-paperwork/</link>
-	<description>&lt;p&gt;The Eclipse Foundation has several agreements that we use to ensure that contributors understand the terms by which they make their contributions and, especially, to give them an opportunity to assert that they have the necessary rights to make those contributions under the terms of the corresponding project license.&lt;/p&gt;
-
-
-
-&lt;p&gt;The &lt;a href=&quot;https://www.eclipse.org/legal/ECA.php&quot;&gt;Eclipse Contributor Agreement&lt;/a&gt; (ECA) must be signed by anybody who wants to contribute to an Eclipse open source software or specification project. When a contributor has signed the ECA, a committer will be able to merge a contributor’s pull requests. Another way of looking at it is that a committer cannot merge a pull request when the contributor has not signed the ECA.&lt;/p&gt;
-
-
-
-&lt;p&gt;The Eclipse &lt;a href=&quot;https://www.eclipse.org/legal/committer_process/EclipseIndividualCommitterAgreementFinal.pdf&quot;&gt;Individual Committer Agreement&lt;/a&gt; (ICA) is signed by folks who do not work for an Eclipse Foundation member company when they become a committer. For those developers who do work for an Eclipse Foundation member company, the company representative can complete an Eclipse &lt;a href=&quot;https://www.eclipse.org/legal/committer_process/EclipseMemberCommitterAgreementFinal.pdf&quot;&gt;Member Committer and Contributor Agreement&lt;/a&gt; (MCCA) which covers all of that member company’s employees.&lt;/p&gt;
-
-
-
-&lt;p&gt;Acquiring committer status starts with an &lt;a href=&quot;https://www.eclipse.org/projects/handbook/#elections-committer&quot;&gt;election&lt;/a&gt; started by an Eclipse project team. Upon successful completion of that election, the nominee is prompted to provide the necessary paperwork. Completing that &lt;a href=&quot;https://www.eclipse.org/projects/handbook/#paperwork&quot;&gt;paperwork&lt;/a&gt; is the last step in the process, granting a developer the ability to commit (i.e., push their own content or merge pull requests from others). When a new committer signs the ICA (or their employer signs the MCCA) they also sign the ECA, and so gains the ability to contribute (but not directly push or merge) to any other Eclipse open source software or specification project. &lt;/p&gt;
-
-
-
-&lt;p&gt;When a developer is elected as a committer to another Eclipse project, they will not have to complete any additional paperwork. Committer status is specific to a particular Eclipse project; paperwork is not project specific.&lt;/p&gt;
-
-
-
-&lt;p&gt;Note that contributors retain ownership of their contributions; the ECA, for example, states in part (highlighting is mine):&lt;/p&gt;
-
-
-
-&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p&gt;This ECA, and the license(s) associated with the particular Eclipse Foundation projects You are contributing to, provides a license to Your Contributions to the Eclipse Foundation and downstream consumers, but &lt;strong&gt;You still own Your Contributions&lt;/strong&gt;, and except for the licenses provided for in this ECA, You reserve all right, title and interest in Your Contributions.Â &lt;/p&gt;&lt;/blockquote&gt;
-
-
-
-&lt;p&gt;That is, the contributor owns their contributions, but grants a license to the Eclipse Foundation and downstream consumers to use them under the terms of the project license.&lt;/p&gt;</description>
-	<pubDate>Thu, 28 Nov 2019 00:03:08 +0000</pubDate>
-</item>
-<item>
-	<title>vert.x project: Eclipse Vert.x 3.8.4</title>
-	<guid isPermaLink="true">https://vertx.io/blog/eclipse-vert-x-3-8-4</guid>
-	<link>https://vertx.io/blog/eclipse-vert-x-3-8-4</link>
-	<description>&lt;article&gt;&lt;p&gt;We have just released Vert.x 3.8.4, a bug fix release of Vert.x 3.8.x.&lt;/p&gt;
-&lt;p&gt;Since the release of Vert.x 3.8.4, quite a few bugs have been reported. We would like to thank you all for reporting these issues.&lt;/p&gt;
-&lt;p&gt;Vert.x 3.8.4 release notes&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/wiki/wiki/3.8.4-Release-Notes&quot;&gt;https://github.com/vert-x3/wiki/wiki/3.8.4-Release-Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The artifacts have been deployed to &lt;a href=&quot;http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.vertx%22%20AND%20v%3A%223.8.%22&quot;&gt;Maven Central&lt;/a&gt; and you can get the distribution on &lt;a href=&quot;https://bintray.com/vertx/downloads/distribution/3.8.4/view&quot;&gt;Bintray&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can bootstrap a Vert.x 3.8.4 project using &lt;a href=&quot;https://start.vertx.io&quot;&gt;https://start.vertx.io&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The event bus client using the SockJS bridge are available from NPM, Bower and as a WebJar:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/vertx3-eventbus-client&quot;&gt;https://www.npmjs.com/package/vertx3-eventbus-client&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/vertx-bus-bower&quot;&gt;https://github.com/vert-x3/vertx-bus-bower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.webjars.org/&quot;&gt;http://www.webjars.org/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Docker images are also available on the &lt;a href=&quot;https://hub.docker.com/u/vertx/&quot;&gt;Docker Hub&lt;/a&gt;. The Vert.x distribution is also available from &lt;a href=&quot;http://sdkman.io/index.html&quot;&gt;SDKMan&lt;/a&gt; and &lt;a href=&quot;http://brew.sh/&quot;&gt;HomeBrew&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Happy coding and see you soon on our user or dev &lt;a href=&quot;https://vertx.io/community&quot;&gt;channels&lt;/a&gt;.&lt;/p&gt;
-&lt;/article&gt;</description>
-	<pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-</item>
-<item>
 	<title>Karsten Thoms: Eclipse m2e: How to use a WORKSPACE Maven installation</title>
 	<guid isPermaLink="false">http://kthoms.wordpress.com/?p=1027</guid>
 	<link>https://kthoms.wordpress.com/2019/11/27/eclipse-m2e-how-to-use-a-workspace-maven-installation/</link>
@@ -669,57 +1237,6 @@ protected IMavenProjectFacade getMavenDistribution() {
 &lt;p&gt;And the Maven Installations preference page lets you now select this distribution:&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-full wp-image-1037&quot; height=&quot;478&quot; src=&quot;https://kthoms.files.wordpress.com/2019/11/screenshot-345.png?w=584&amp;amp;h=478&quot; width=&quot;584&quot; /&gt;&lt;/p&gt;</description>
 	<pubDate>Wed, 27 Nov 2019 09:39:29 +0000</pubDate>
-</item>
-<item>
-	<title>Eclipse Dirigible: Release 4.0</title>
-	<guid isPermaLink="false">http://dirigible.io/release/2019/11/24/news_new_release_4_0</guid>
-	<link>http://dirigible.io/release/2019/11/24/news_new_release_4_0.html</link>
-	<description>&lt;p&gt;New version &lt;a href=&quot;https://download.eclipse.org/dirigible/drops/R-4.0-201911241404/index.html&quot;&gt;4.0&lt;/a&gt; released.&lt;/p&gt;
-
-&lt;p&gt;Release of &lt;em&gt;Type B&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;features&quot;&gt;Features&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Major change for API to v4&lt;/li&gt;
-  &lt;li&gt;Destination API v4 with Managed Destination Provider&lt;/li&gt;
-  &lt;li&gt;Mail API v4&lt;/li&gt;
-  &lt;li&gt;Workspace API v4&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;fixes&quot;&gt;Fixes&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Migration related fixes&lt;/li&gt;
-  &lt;li&gt;User Interface related fixes&lt;/li&gt;
-  &lt;li&gt;Git pull with Gitlab&lt;/li&gt;
-  &lt;li&gt;Minor fixes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;statistics&quot;&gt;Statistics&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4300+ Downloads&lt;/li&gt;
-  &lt;li&gt;11K+ Docker Pulls&lt;/li&gt;
-  &lt;li&gt;5.5K+ Trial Users&lt;/li&gt;
-  &lt;li&gt;62K+ Sessions&lt;/li&gt;
-  &lt;li&gt;179 Countries&lt;/li&gt;
-  &lt;li&gt;356 Repositories in DirigibleLabs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;operational&quot;&gt;Operational&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Available packages for download - &lt;a href=&quot;https://download.eclipse.org/dirigible/drops/R-4.0-201911241404/index.html&quot;&gt;https://download.eclipse.org/dirigible/drops/R-4.0-201911241404/index.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Docker images at Docker Hub under DirigibleLabs organization:	&lt;a href=&quot;https://hub.docker.com/u/dirigiblelabs/&quot;&gt;https://hub.docker.com/u/dirigiblelabs/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Maven Central artifacts by org.eclipse.dirigible namespace: &lt;a href=&quot;https://mvnrepository.com/artifact/org.eclipse.dirigible&quot;&gt;https://mvnrepository.com/artifact/org.eclipse.dirigible&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The full list of bug-fixes and enhancements can be found here: &lt;a href=&quot;https://github.com/eclipse/dirigible/milestone/24?closed=1&quot;&gt;https://github.com/eclipse/dirigible/milestone/24?closed=1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The source code is available at GitHub repository here: &lt;a href=&quot;https://github.com/eclipse/dirigible/tree/4.0.0&quot;&gt;https://github.com/eclipse/dirigible/tree/4.0.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The instant trial is updated accordingly with the released version here: &lt;a href=&quot;http://trial.dirigible.io&quot;&gt;http://trial.dirigible.io&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;enjoy&quot;&gt;Enjoy!&lt;/h4&gt;</description>
-	<pubDate>Sun, 24 Nov 2019 00:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Christopher Guindon: Modernizing our GitHub Sync Toolset</title>
@@ -1307,7 +1824,7 @@ as well as &lt;a href=&quot;https://repo1.maven.org/maven2/org/eclipse/ditto/&qu
 
 &lt;p&gt;–&lt;br /&gt;
 The Eclipse Ditto team&lt;/p&gt;</description>
-	<pubDate>Mon, 04 Nov 2019 05:00:00 +0000</pubDate>
+	<pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
 </item>
 <item>
 	<title>Scott Lewis: ECF 3.14.6 Released</title>
@@ -1493,100 +2010,6 @@ The Eclipse Ditto team&lt;/p&gt;</description>
 	<pubDate>Thu, 10 Oct 2019 13:48:21 +0000</pubDate>
 </item>
 <item>
-	<title>Tanja Obradovic: Jakarta EE Community Update October 2019</title>
-	<guid isPermaLink="false">6734 at https://blogs.eclipse.org</guid>
-	<link>https://blogs.eclipse.org/post/tanja-obradovic/jakarta-ee-community-update-october-2019</link>
-	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Welcome to the latest Jakarta EE community update. In this edition, we highlight key opportunities to participate in upcoming community events, explore the Jakarta EE 8 release, and learn more about the very bright future of cloud native Java.&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3 dir=&quot;ltr&quot;&gt;EclipseCon Europe 2019: Register for Community Day&lt;/h3&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2019/schedule/2019-10-21&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;u&gt;Community Day&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;, which will be held Monday, October 21 at&lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;EclipseCon Europe&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;, is a must for everyone who’s interested in our cloud native projects. The day is dedicated to community-organized meetings to discuss projects and technologies, provide workshops and coding sessions, hold working group gatherings, and more. Lunch and breaks are included, and the day ends with a casual reception.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;There’s already a gathering planned for anyone interested in Jakarta EE, MicroProfile, Eclipse Jemo, Eclipse Che, Eclipse Codewind, and other cloud-related topics. To see the agenda so far, and add your ideas for discussion topics, check the&lt;/span&gt;&lt;a href=&quot;https://wiki.eclipse.org/ECE_2019_Community_Day&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;EclipseCon Europe Community Day wiki&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;And, don’t forget to attend our new event this year — Community Evening on Tuesday, October 22. This is your opportunity to participate in more casual, interactive events and enjoy a beverage with your community colleagues. A bar offering beer, wine, water, and juice will be available. &lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;To register for EclipseCon Europe and for Community Day, click&lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2019/registration&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rtecenter&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;__________________________&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3 dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;JakartaOne Livestream Wrap-Up&lt;/h3&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;The first-ever JakartaOne Livestream event was a huge success with more than 1,400 registered attendees. The online conference, held September 10, marked the release of the first vendor-neutral, Java EE 8-compatible release of Jakarta EE following the new Jakarta EE Specification Process.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;We first knew this event would be bigger than expected when several well-respected leaders in the Java EE community graciously and enthusiastically agreed to join the JakartaOne Livestream Program Committee. Led by Committee Chair, Reza Rahman, committee members Adam Bien, Ivar Grimstad, Arun Gupta, Josh Juneau, along with Tanja Obradovic from the Eclipse Foundation, put in a huge effort to plan the conference.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;One of the committees’ toughest jobs was selecting 16 conference papers for presentation from among the more than 50 high-quality submissions. Participants enjoyed a great mixture of introductory and overview sessions, including sessions on particular specifications, cloud native topics, keynotes from Mike Milinkovich and James Gosling, as well as industry keynotes from Jakarta EE Working Group Steering Committee members IBM, Fujitsu, Oracle, Payara, Red Hat, and Tomitribe. Demos, panel discussions, and Q&amp;amp;A sessions rounded out the 18 hours of program material that were delivered.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;To see a list of the topics presented and access the session recordings, visit&lt;/span&gt;&lt;a href=&quot;https://jakartaone.org/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;jakartaone.org&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;.    &lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rtecenter&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;__________________________&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3&gt;Jakarta EE 8 Release Highlights&lt;/h3&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;The Jakarta EE 8 release is&lt;/span&gt;&lt;a href=&quot;https://jakarta.ee/release/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;now available&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; with 43 projects, more than 60 million lines of code, and full compatibility with Java EE 8.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;With the delivery of the Jakarta EE 8 Platform, the entire ecosystem — from software vendors to developers and enterprises — has all of the pieces needed to shape the future of cloud native Java and meet the modern enterprise’s need for cloud-based applications that resolve key business challenges.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;To ensure that cloud native Java applications are portable, secure, stable, and resilient,&lt;/span&gt;&lt;a href=&quot;https://jakarta.ee/compatibility/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;product compatibility certifications&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; are underway. We already have three products that are certified as compatible with the full Jakarta EE 8 platform:&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Eclipse GlassFish application server, version 5.1&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;IBM Open Liberty server runtime, version 19.0&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Red Hat WildFly application server, version 17.0&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Eclipse GlassFish and Open Liberty are also certified as Jakarta EE 8 web profile-compatible products.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Almost three dozen&lt;/span&gt;&lt;a href=&quot;https://jakarta.ee/specifications/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Jakarta EE specifications&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; are also available. Jakarta projects are listed&lt;/span&gt;&lt;a href=&quot;https://projects.eclipse.org/projects/ee4j&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; and are included in our&lt;/span&gt;&lt;a href=&quot;https://projects.eclipse.org/?combine=&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;main project repository&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;. It’s time for everyone to get involved in the cloud native Java community and engage in turning the huge potential for cloud native Java into reality.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rtecenter&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;__________________________&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3&gt;Our Free Cloud Native Java E-Book Is Now Available&lt;/h3&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;To mark the significance of the Jakarta EE 8 release, we also released a free e-book,&lt;/span&gt;&lt;a href=&quot;https://jakarta-4753786.hs-sites.com/cloud-native-java-eBook&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Fulfilling the Vision for Open Source, Cloud Native Java&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;, on September 10. The e-book includes insights from some of the leading voices in enterprise Java and the Jakarta EE Working Group. It explores:&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Why the world needs open source, cloud native Java&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;The common vision for cloud native Java that has emerged&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;The many benefits of cloud native Java for software vendors, developers, and enterprises&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Why it’s time for all Java stakeholders to get involved in the Jakarta EE Working Group&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Priorities for evolving cloud native Java in the short- and long-term&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;The vital role of the Eclipse Foundation in supporting cloud native Java evolution&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;a href=&quot;https://jakarta-4753786.hs-sites.com/cloud-native-java-eBook&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;u&gt;Download the e-book today&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rtecenter&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;__________________________&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3 dir=&quot;ltr&quot;&gt;A Look Back at September Events&lt;/h3&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;September was a busy month for Jakarta EE and cloud native Java events as we participated in the JakartaOne Livestream event, described earlier, as well as&lt;/span&gt;&lt;a href=&quot;https://www.oracle.com/code-one/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Oracle Code One&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; and&lt;/span&gt;&lt;a href=&quot;https://heapcon.io/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;HeapCon&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;. Check out the blogs about Oracle Code One by&lt;/span&gt;&lt;a href=&quot;https://blog.payara.fish/payara-services-at-oracle-code-one-2019&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Payara&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; and&lt;/span&gt;&lt;a href=&quot;https://www.tomitribe.com/blog/tomitribe-at-codeone-2019/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Tomitribe&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;A quick note about Oracle Code One: Everyone at the Eclipse Foundation was extremely proud when our executive director, Mike Milinkovich, accepted the&lt;/span&gt;&lt;a href=&quot;https://www.globenewswire.com/news-release/2019/09/17/1916531/0/en/The-Eclipse-Foundation-Wins-Duke-s-Choice-Award-for-Open-Source-Contributions-to-the-Java-Ecosystem.html&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Duke’s Choice Award&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; on behalf of the Jakarta EE community at the conference.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rtecenter&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;__________________________&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3 dir=&quot;ltr&quot;&gt;Stay Connected With the Jakarta EE Community&lt;/h3&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;The Jakarta EE community promises to be very active and there are a number of channels to help you stay up to date with all of the latest and greatest news and information. Tanja Obradovic’s&lt;/span&gt;&lt;a href=&quot;https://blogs.eclipse.org/post/tanja-obradovic/jakarta-ee-community-engagement&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;blog&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; offers a sneak peek at the community engagement plan, which includes:&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rteindent1&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;Social media:&lt;a href=&quot;https://twitter.com/jakartaee&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Twitter&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;,&lt;/span&gt;&lt;a href=&quot;https://www.facebook.com/JakartaEE/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Facebook&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;,&lt;/span&gt;&lt;a href=&quot;https://www.linkedin.com/groups/13597511/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;LinkedIn Group&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rteindent1&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;Mailing lists:&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #1155cc; font-family: Arial; font-size: 11pt;&quot;&gt;jakarta.ee-community@eclipse.org&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; and &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #1155cc; font-family: Arial; font-size: 11pt;&quot;&gt;jakarta.ee-wg@eclipse.org&lt;/span&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rteindent1&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;Newsletters, blogs, and emails:&lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot; style=&quot;text-decoration: none;&quot;&gt; &lt;u&gt;Eclipse newsletter&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;,&lt;/span&gt;&lt;a href=&quot;https://jakartablogs.ee/#main-content&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Jakarta EE blogs&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;, monthly update emails to &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #1155cc; font-family: Arial; font-size: 11pt;&quot;&gt;jakarta.ee-community@eclipse.org&lt;/span&gt;&lt;u&gt;,&lt;/u&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; and community blogs on&lt;/span&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1JflN_xJ9d5ZWu5VUbDV9Spj7mc8WuPGMfd6EZgabXz0/edit#gid=0&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;“how are you involved with Jakarta EE”&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;rteindent1&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;·&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: 'Times New Roman'; font-size: 6.999999999999999pt;&quot;&gt;      &lt;/span&gt;Meetings:&lt;a href=&quot;https://www.meetup.com/jakartatechtalks_/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Jakarta Tech Talks&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;,&lt;/span&gt;&lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Jakarta EE Update&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;, Jakarta Town Hall, and Eclipse Foundation events and conferences, such as&lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;EclipseCon Europe&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;Subscribe to your preferred channels today. And, get involved in the&lt;/span&gt;&lt;a href=&quot;https://jakarta.ee/membership/&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Jakarta EE Working Group&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; to help shape the future of open source, cloud native Java. To learn more about Jakarta EE-related plans and check the date for the next Jakarta Tech Talk, be sure to bookmark the&lt;/span&gt;&lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot; style=&quot;text-decoration: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt; &lt;/span&gt;&lt;u&gt;Jakarta EE Community Calendar&lt;/u&gt;&lt;/a&gt;&lt;span style=&quot;background-color: transparent; color: #000000; font-family: Arial; font-size: 11pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-	<pubDate>Wed, 09 Oct 2019 17:07:56 +0000</pubDate>
-</item>
-<item>
 	<title>Chris Aniszczyk: Open Source Gerrymandering</title>
 	<guid isPermaLink="false">https://www.aniszczyk.org/?p=4203</guid>
 	<link>https://www.aniszczyk.org/2019/10/08/open-source-gerrymandering/</link>
@@ -1625,10 +2048,7 @@ The Eclipse Ditto team&lt;/p&gt;</description>
 &lt;p&gt;&lt;i&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;â€œThe Governing Board may extend a Platinum membership at the Silver Membership Scale rates on a year-by-year basis for up to 5 years to startup companies with revenues less than $50 million that are deemed strategic technology contributors by the Governing Board.â€�&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In my opinion, that particular piece in the charter was important in bringing together all the relevant startups to the table along with the big established companies at the time.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In terms of projects, the CNCF Technical Oversight Committee (TOC) defines a set of &lt;/span&gt;&lt;a href=&quot;https://github.com/cncf/toc/blob/master/PRINCIPLES.md&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;principles&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to steward the technical community. The most important principle is around a minimum viable governance that enables projects to be self-governing. TOC members are available to provide guidance to the projects but do not control them.Â &lt;/span&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;
-&lt;p dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;Happy Friday! &lt;img alt=&quot;ğŸŒŸ&quot; class=&quot;wp-smiley&quot; src=&quot;https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f31f.png&quot; style=&quot;height: 1em;&quot; /&gt; NEW on the blog today from &lt;a href=&quot;https://twitter.com/cra?ref_src=twsrc%5Etfw&quot;&gt;@cra&lt;/a&gt; &lt;img alt=&quot;ğŸ‘‰&quot; class=&quot;wp-smiley&quot; src=&quot;https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f449.png&quot; style=&quot;height: 1em;&quot; /&gt;&quot;&lt;a href=&quot;https://twitter.com/hashtag/CNCF?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#CNCF&lt;/a&gt; Technical Principles and Open &lt;a href=&quot;https://twitter.com/hashtag/Governance?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Governance&lt;/a&gt; Success&quot; &lt;a href=&quot;https://t.co/YEeGn8iqUV&quot;&gt;https://t.co/YEeGn8iqUV&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;— CNCF (@CloudNativeFdn) &lt;a href=&quot;https://twitter.com/CloudNativeFdn/status/1167455648768045056?ref_src=twsrc%5Etfw&quot;&gt;August 30, 2019&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;https://twitter.com/CloudNativeFdn/status/1167455648768045056&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Unlike Apache and the &lt;/span&gt;&lt;a href=&quot;https://www.apache.org/theapacheway/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Apache Way&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, CNCF does not require its hosted projects to follow any specific governance model. Instead, CNCF &lt;/span&gt;&lt;a href=&quot;https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;specifies&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; that graduated projects need to â€œexplicitly define a project governance and committer process.â€� So in reality, CNCF operates under the principle of subsidiarity, encouraging decisions to be made at the lowest project level consistent with their resolution.&lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;GitLab&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;GitLab is a fantastic open source project AND company that I admire deeply for their &lt;/span&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;transparency&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. The way the GitLab &lt;/span&gt;&lt;b&gt;project&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; is structured is that itâ€™s wholly owned by the GitLab company (they also own the trademark). To the credit of GitLab, they make this clear via their &lt;/span&gt;&lt;a href=&quot;https://about.gitlab.com/company/stewardship/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;stewardship principles&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; online and discuss what they consider enterprise product work versus project work.&lt;/span&gt;&lt;/p&gt;
@@ -1676,49 +2096,6 @@ The Eclipse Ditto team&lt;/p&gt;</description>
 The interesting thing about</description>
 	<pubDate>Tue, 08 Oct 2019 12:16:32 +0000</pubDate>
 	<author>noreply@blogger.com (Jens v.P.)</author>
-</item>
-<item>
-	<title>Mike Milinkovich: Re-Defining Cloud Development Tools</title>
-	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1514</guid>
-	<link>https://eclipse-foundation.blog/2019/10/08/re-defining-cloud-development-tools/</link>
-	<description>&lt;p&gt;The Eclipse community is seriously on a roll these days. Hot on the heels of the &lt;a href=&quot;https://www.eclipse.org/che/&quot;&gt;Eclipse Che 7 release&lt;/a&gt;, we just announced the &lt;a href=&quot;https://www.eclipse.org/org/workinggroups/explore.php&quot;&gt;Eclipse Cloud Development (ECD) Tools Working Group&lt;/a&gt;, a vendor-neutral, open source collaboration that will focus on the evolution of development tools for, and in, the cloud.&lt;/p&gt;
-&lt;p&gt;I haven’t seen an initiative with the potential impact on the development tools industry since the founding of the Eclipse Foundation back in 2004, when we hosted around 12 projects related to the Eclipse IDE.&lt;/p&gt;
-&lt;p&gt;When the first Eclipse IDE was launched, it fulfilled the need for a vendor-neutral development environment that would help developers adapt to rapidly changing middleware technologies and business priorities including enterprise Java and Web services. Those were the megatrends at the time. And the impact of the Eclipse IDE was massive, as it drove a decade of enormous adoption and industry consolidation around developer tools.&lt;/p&gt;
-&lt;p&gt;While the Eclipse IDE is still extremely relevant, better than ever, and is actively used by more than four million developers, today the megatrend is cloud development. And, the world needs open source technologies and tools to drive the development of cloud native applications. The purpose of the ECD Tools group is to deliver modern, extensible, web-based developer tool platforms that can be used by everyone to enable their own cloud enablement strategies.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Huge Demand for Open Source Cloud Development Technologies&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We know from the responses to our developer surveys and the enthusiastic responses to our recent &lt;a href=&quot;https://jakarta.ee/&quot;&gt;Jakarta EE 8 release&lt;/a&gt; that there’s huge demand for open source cloud development technologies. More than 80 percent of the Java developers we surveyed earlier this year told us they either are already or plan to create cloud native applications within the next 12-18 months.&lt;/p&gt;
-&lt;p&gt;However, many developers are well beyond the planning stage. The growth and explosion of the Kubernetes container orchestration platform confirms the urgency to deliver open source cloud development technologies is very real today.&lt;/p&gt;
-&lt;p&gt;Che 7 is the world’s first Kubernetes-native IDE that’s built from the ground up for cloud native application development. It simplifies and accelerates cloud development by allowing developers who are not Kubernetes experts to immediately contribute to cloud native application development efforts. In turn, Che 7 relies upon &lt;a href=&quot;https://theia-ide.org/&quot;&gt;Eclipse Theia&lt;/a&gt;, which provides a highly modular and extensible IDE platform built on modern web technologies that runs on both your desktop or in your browser.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Accelerating Open Source, Cloud Native Development&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;The ECD Tools Working Group takes our open source cloud development initiatives to the next level.&lt;/p&gt;
-&lt;p&gt;The Working Group will drive the evolution and widespread adoption of emerging standards for cloud-based developer tools, including language support, extensions, and developer workspace definition. These efforts will accelerate adoption of a Cloud IDE and container-based workspace management.&lt;/p&gt;
-&lt;p&gt;With such a broad scope, it will come as no surprise to learn that the ECD Tools Working Group encompasses a wide range of open source cloud development projects, including &lt;a href=&quot;https://www.eclipse.org/che/&quot;&gt;Eclipse Che&lt;/a&gt;, &lt;a href=&quot;https://www.theia-ide.org/&quot;&gt;Eclipse Theia&lt;/a&gt;, &lt;a href=&quot;https://www.eclipse.org/codewind/&quot;&gt;Eclipse CodeWind&lt;/a&gt;, &lt;a href=&quot;https://www.dirigible.io/&quot;&gt;Eclipse Dirigible&lt;/a&gt;, &lt;a href=&quot;https://projects.eclipse.org/projects/ecd.sprotty&quot;&gt;Eclipse Sprotty&lt;/a&gt;, and others.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Big-Name Support and Involvement&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;We could not create a working group of this magnitude and with this potential without the incredible level of support we’ve received from the founding members of this group.&lt;/p&gt;
-&lt;p&gt;When companies such as Broadcom, EclipseSource, Ericsson, IBM, Intel, Red Hat, SAP, Software AG, Typefox, and others support an initiative so strongly from its earliest days, you get a sense of just how important it is considered to be. Every one of our founders is a respected leader in their space, and we have a mix of large corporations and smaller companies, which is always great to see.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Unstoppable Momentum&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;I want to thank everyone who has helped us create and launch the ECD Tools Working Group. With the incredible groundswell of interest, engagement, and participation we’re seeing from both world-leading corporations and passionate developers, I truly believe we are standing on the doorstep of a very exciting open source future for cloud development tools. And, I have no doubt this community will continue to grow and thrive.&lt;/p&gt;
-&lt;p&gt;To learn more about getting involved with the ECD Tools Working Group, view the &lt;a href=&quot;https://www.eclipse.org/org/workinggroups/eclipse_cloud_development_charter.php&quot;&gt;Charter&lt;/a&gt; and &lt;a href=&quot;https://www.eclipse.org/org/workinggroups/wpga/eclipse_cloud_development_tools_participation_agreement.pdf&quot;&gt;ECD Tools Working Group Participation Agreement (WPGA)&lt;/a&gt;, or email us at membership@eclipse.org. You can also join the &lt;a href=&quot;https://accounts.eclipse.org/mailing-list/ecd-tools-wg&quot;&gt;ECD Tools&lt;/a&gt; mailing list and follow @ECDTools on Twitter.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</description>
-	<pubDate>Tue, 08 Oct 2019 10:30:33 +0000</pubDate>
-</item>
-<item>
-	<title>Thabang Mashologu: Participate in the 2019 IoT Commercial Adoption Survey!</title>
-	<guid isPermaLink="false">6732 at https://blogs.eclipse.org</guid>
-	<link>https://blogs.eclipse.org/post/thabang-mashologu/participate-2019-iot-commercial-adoption-survey</link>
-	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;According to McKinsey, the Internet of Things (IoT) will have a total potential economic impact of up to $11.1 trillion a year by 2025. &lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;What are the leading industrial IoT use cases that will contribute to that impact? You tell us!&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;The&lt;a href=&quot;https://iot.eclipse.org/&quot;&gt; Eclipse IoT Working Group&lt;/a&gt; has launched the &lt;a href=&quot;https://www.surveymonkey.com/r/thabang-iotcomm&quot;&gt;2019 IoT Commercial Adoption Survey&lt;/a&gt; to help IoT ecosystem stakeholders get a better understanding of the IoT industry landscape and gain insights into the requirements, priorities, and challenges faced by organizations who are deploying and using commercial IoT solutions.&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;Take just a few minutes to complete the survey. Survey responses will be collected until November 29, 2019 and the results will be published in January. &lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;Thank you in advance for your participation!&lt;/p&gt;
-
-&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;&lt;a href=&quot;https://www.surveymonkey.com/r/thabang-iotcomm&quot;&gt;Take the survey now&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-	<pubDate>Mon, 07 Oct 2019 18:26:51 +0000</pubDate>
 </item>
 <item>
 	<title>PapyrusUML: Removing “Contact Us</title>
@@ -2043,91 +2420,6 @@ You can &lt;a href=&quot;https://news.obeo.fr/en/post/world-cleanup-day-obeo-sup
 &lt;p&gt;But even more important, we would like to continue our discussions around this effort. All contributions are welcome: code, documentation, additional packages … your ideas, thoughts, and feedback!&lt;/p&gt;
 &lt;p&gt;The post &lt;a href=&quot;https://dentrassi.de/2019/09/10/from-building-blocks-to-iot-solutions/&quot; rel=&quot;nofollow&quot;&gt;From building blocks to IoT solutions&lt;/a&gt; appeared first on &lt;a href=&quot;https://dentrassi.de&quot; rel=&quot;nofollow&quot;&gt;ctron's blog&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Tue, 10 Sep 2019 07:07:37 +0000</pubDate>
-</item>
-<item>
-	<title>Cedric Brun: The Rising Adoption of Capella</title>
-	<guid isPermaLink="false">https://cedric.brun.io/eclipse/rising-adoption-of-MBSE-capella</guid>
-	<link>https://cedric.brun.io/eclipse/rising-adoption-of-MBSE-capella/</link>
-	<description>&lt;p&gt;Witnessing an OSS technology getting together with a wide group of users is something I find exhilarating, I have experienced it with Acceleo, EMF Compare and Eclipse Sirius along the years, each time in different contexts and at different scales but discovering what is being done by others with a technology is always a source of excitement to me.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.polarsys.org/capella/&quot; target=&quot;_blank&quot;&gt;Capella&lt;/a&gt;  was contributed by Thales to the Eclipse communities a few years ago already and fueled by the growing need to design Systems in a better way, by the interest in Model Based System Engineering and the qualities of the product in itself we can clearly see an acceleration in the last few months.&lt;/p&gt;
-
-&lt;p&gt;If you are wondering what is Capella and what it’s used for, here is a 2-minute video we prepared for you:&lt;/p&gt;
-
-
-
-&lt;p&gt;Worldwide awareness of this solution grows and adoption rises, organizations from Europe, North America and Asia are now using Capella and experiencing the benefits of using a tool which implements a method (coined “&lt;a href=&quot;https://www.polarsys.org/capella/arcadia.html&quot; target=&quot;_blank&quot;&gt;Arcadia&lt;/a&gt;”) and &lt;strong&gt;not only a language.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;https://cedric.brun.io/images/blog/capelladay2019/forum-activity.png&quot;&gt;&lt;img src=&quot;https://cedric.brun.io/images/blog/capelladay2019/forum-activity.png&quot; /&gt;&lt;/a&gt;  
-    &lt;figcaption&gt;Capella Forum Activity&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Looking at the numbers, &lt;strong&gt;just for this summer : more than 1200 downloads each month&lt;/strong&gt;, a forum actvity which has been growing with a nice looking curve and monthly stats on &lt;a href=&quot;https://www.youtube.com/channel/UCfgwbb2h10V3tgJ59sbGBnQ/videos&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt; reaching more than 2000 views: considering the size of the target audience this is a significant acceleration and that is without counting the deployment of &lt;a href=&quot;https://www.plm.automation.siemens.com/global/en/products/collaboration/product-architecture.html&quot; target=&quot;_blank&quot;&gt;System Modeling Workbench&lt;/a&gt; provided by Siemens which includes the technology.&lt;/p&gt;
-
-&lt;p&gt;Adopters not only use it but speak about it and as with any other tool having an opportunity to understanding how others are using it is highly valuable.&lt;/p&gt;
-
-&lt;p&gt;Rolls Royce, ArianeGroup or the Singapore University: they all have shared valuable information through the recent webinars :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fr.slideshare.net/Obeo_corp/webinar-july-2019-introduction-to-capella-and-arcadia-with-a-simple-system&quot; target=&quot;_blank&quot;&gt;Introduction to Arcadia Capella with a toy catapult project&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=njW_zdE_FzI&quot; target=&quot;_blank&quot;&gt;Capella for large complex mechanical systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;MBSE must become a team sport !&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;More are coming and many already available through the &lt;a href=&quot;https://www.polarsys.org/capella/resources.html&quot; target=&quot;_blank&quot;&gt;Resources Page&lt;/a&gt;! BTW we can’t always get the authorization to keep them available online so your safest option is to register and attend.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;https://polarsys.org/capella/capella_day_munich_2019.html&quot;&gt;&lt;img src=&quot;https://cedric.brun.io/images/blog/capelladay2019/munich.jpg&quot; /&gt;&lt;/a&gt;  
-    &lt;figcaption&gt;Munich (Germany)&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;We also make sure to setup « in Real Life » opportunities to discuss Capella and MBSE. Occasions to talk with the team behind Capella and the experts arounds the world. Next up is Capella Day Munich 2019 in a couple of weeks (the 16th of September) organized by Thales and Obeo in conjunction with the  &lt;a href=&quot;https://modelsconf19.org/&quot;&gt;Models Conference 2019&lt;/a&gt;. Here is a glimpse of the program :&lt;/p&gt;
-
-&lt;p&gt;The agenda is filled with general presentations, feedback by industrial users about their Capella deployment or specific add-ons/integration.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;https://polarsys.org/capella/capella_day_munich_2019.html#program&quot;&gt;&lt;img src=&quot;https://cedric.brun.io/images/blog/capelladay2019/program.png&quot; /&gt;&lt;/a&gt;  
-    &lt;figcaption&gt;The program of Capella Day Munich 2019&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;You might &lt;a href=&quot;https://polarsys.org/capella/capella_day_munich_2019.html&quot; target=&quot;_blank&quot;&gt;want to hurry as we are almost sold out&lt;/a&gt; and such occasions are pretty unique!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I sincerely hope you’ll enjoy it, we are working hard to make it a success :-), if you can’t make it this time then know there are more occasions to come: &lt;a href=&quot;https://www.incose.org/events-and-news/search-events/2019/10/17/default-calendar/asia-oceania-systems-engineering-conference-2019---call-for-papers&quot; target=&quot;_blank&quot;&gt;AOSEC&lt;/a&gt; in Bangalore, EclipseCon in Germany (again!) where there might be a workshop focused on “MBSE at Eclipse” (Please add your name and interest on &lt;a href=&quot;https://wiki.eclipse.org/ECE2019_MBSE_at_Eclipse&quot; target=&quot;_blank&quot;&gt;the corresponding wiki page&lt;/a&gt; )&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;https://cedric.brun.io/eclipse/rising-adoption-of-MBSE-capella/&quot;&gt;The Rising Adoption of Capella&lt;/a&gt; was originally published by Cédric Brun at &lt;a href=&quot;https://cedric.brun.io&quot;&gt;CEO @ Obeo&lt;/a&gt; on September 04, 2019.&lt;/p&gt;</description>
-	<pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-	<author>cedric.brun@obeo.fr (Cédric Brun)</author>
-</item>
-<item>
-	<title>Doug Schaefer: Time for Change</title>
-	<guid isPermaLink="false">https://medium.com/p/54156200cab8</guid>
-	<link>https://medium.com/@dougschaefer/time-for-change-54156200cab8?source=rss-8f7a70438965------2</link>
-	<description>&lt;p&gt;First, let me get straight to the point. I have left BlackBerry/QNX and will be starting a new job in Ottawa next week. It’s a great opportunity to work on something new for a great company with a bunch of former colleagues I admire. As much as I’m looking forward to that much needed change, it sadly will take me away from the Eclipse community. This message is a goodbye and thank you.&lt;/p&gt;&lt;p&gt;Thinking back all the way to the beginning, I’m quickly overwhelmed by how many great people I have had the opportunity to work with thanks to the Eclipse CDT project. At the very beginning was Sky Matthews and John Prokopenko who let me weasel my way on as Rational’s technical lead on the project just as it was starting out in 2002 also at a time when I needed a change. Of course, I had a great team of developers at Rational with me that made it fun and easy. Not to mention the original team at QNX who were welcoming and made it easy to get involved. I have a special mention for Sebastien Marineau, CDT’s first project lead, who let me take a leadership role on the project and eventually hired me on at QNX to take over.&lt;/p&gt;&lt;p&gt;Then there was the early years on the CDT where we made our mark. Those early CDT Summits were so fun and really helped built up a team atmosphere. We had about a dozen companies sending contributors, a few of them competitors in the spirit of co-opetition, and we made it work. Then over the years we started getting independent contributors who just did it for the passion of building great C++ tooling they wanted to use themselves. It’s been a great mix and I am so lucky and proud to have been a part of it.&lt;/p&gt;&lt;p&gt;And of course, it was all topped off with our yearly EclipseCons. I am proud to have attended every one of the EclipseCon North America ones and was able to attend quite a few of the EclipseCon Europes in Germany. I have to thank Anne and Mike and Ralph and Wayne and Sharon and Perri and Donald and Ian and Lynn and all the Eclipse Foundation staff past and present for making me feel a part of the family. I always looked forward to the EclipseCon Express flights out of and return to Ottawa with many of them.&lt;/p&gt;&lt;p&gt;My fellow attendees at these conferences were amazing, from the first one at Disneyland where we had an overflow crowd at the CDT BOF and where I gave my first of many CDT talks, to all the friends I met at the bar or ran into at sessions, many of whom had nothing to do with CDT but made me feel so much a part of the bigger community. I will never forget the late nights in the bars chatting with friends like Michael Scharf and Ian Bull and Eric Cloninger and Gilles and Adrian and Jonah and Tom and so many others. As it turns out, last year in Ludwigsburg was a perfect finale where we had such a great time at the Nestor on Wednesday night. I will never forget you all.&lt;/p&gt;&lt;p&gt;I’m incredibly proud of what we built for the CDT. It still has the best indexer in the business, thanks to the parser we built back at Rational and the database I built at QNX and then with so many hands continually making it better and adjusting to the now ever changing C++ language spec. The Launch Bar achieved what I wanted by simplifying the Eclipse launch experience. CDT’s new Core Build fits naturally with the Launch Bar and makes it much simpler to integrate external build systems like CMake. And we have just started a GDB debug adapter using the debug adapter protocol which will pave the way to simplify integrating debuggers with the CDT.&lt;/p&gt;&lt;p&gt;The current set of active committers on the CDT have lately been pulling almost all the weight evolving it and getting releases out the door. Their great work has made my transition easier and will keep the CDT rolling along for years to come. And hopefully vendors will come back too and help provide funding for all this activity. We have an action plan to transition the project lead role. Follow the cdt-dev mailing list to find out more.&lt;/p&gt;&lt;p&gt;It’s sad to leave and the memories and friendships will be forever. I will keep my cdtdoug personal gmail account as a reminder of where I came from. But my new role will give me some much needed energy to keep things going for the next decade. I once questioned why you hardly see any retired engineers helping with open source projects or sharing their passion with the next generation. I promise you this, you will see me again.&lt;/p&gt;&lt;p&gt;Take care, and thank you.&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=54156200cab8&quot; width=&quot;1&quot; /&gt;</description>
-	<pubDate>Tue, 03 Sep 2019 14:56:55 +0000</pubDate>
-</item>
-<item>
-	<title>Scott Lewis: OSGi Remote Services with Apache Dubbo</title>
-	<guid isPermaLink="false">tag:blogger.com,1999:blog-20358640.post-895972499876792176</guid>
-	<link>http://eclipseecf.blogspot.com/2019/08/osgi-remote-services-with-apache-dubbo.html</link>
-	<description>&lt;a href=&quot;https://wiki.eclipse.org/Eclipse_Communication_Framework_Project&quot;&gt;ECF's implementation&lt;/a&gt; of &lt;a href=&quot;https://osgi.org/specification/osgi.cmpn/7.0.0/service.remoteservices.html&quot;&gt;OSGi R7 Remote Services&lt;/a&gt; allows for replacing the underlying distribution system (repsonsible for the object serialization, transport, and other things).  &lt;br /&gt;&lt;br /&gt;This makes it relatively easy to replace one kind of distribution (e.g. Jersey, ActiveMQ) with other/new distribution systems.  &lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://dubbo.apache.org/&quot;&gt;Apache Dubbo&lt;/a&gt; has recently been contributed to Apache, and we've &lt;a href=&quot;https://github.com/ECF/DubboProvider&quot;&gt;created a distribution provider based upon Apache Dubbo&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://wiki.eclipse.org/Distribution_Providers&quot;&gt;Here's a list&lt;/a&gt; of open ECF Remote Service distribution providers.   If you would like Remote Services support for a particular transport, or you've created your own distribution (or &lt;a href=&quot;https://wiki.eclipse.org/Discovery_Providers&quot;&gt;discovery&lt;/a&gt;) based upon some other transport and wish to make it available to others please &lt;a href=&quot;mailto:ecf-dev@eclipse.org&quot;&gt;let us know&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
-	<pubDate>Sat, 31 Aug 2019 17:37:31 +0000</pubDate>
-	<author>noreply@blogger.com (Scott Lewis)</author>
-</item>
-<item>
-	<title>Mat Booth: Eclipse Module on F30 Addendum</title>
-	<guid isPermaLink="false">tag:blog.matbooth.co.uk,2019-08-30:/10-eclipse-module-f30-addendum.html/</guid>
-	<link>http://blog.matbooth.co.uk/10-eclipse-module-f30-addendum.html</link>
-	<description>&lt;p&gt;Additional information about installing the Eclipse IDE module on F30.&lt;/p&gt;</description>
-	<pubDate>Fri, 30 Aug 2019 11:30:00 +0000</pubDate>
-</item>
-<item>
-	<title>N4JS: Redux App Development and Testing in N4JS (Chess Game Part 2)</title>
-	<guid isPermaLink="false">tag:blogger.com,1999:blog-7569987920628430132.post-8839918734785430851</guid>
-	<link>https://n4js.blogspot.com/2019/08/redux-app-development-and-testing-in.html</link>
-	<description>&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;b&gt;In large applications, &lt;a href=&quot;https://redux.js.org/&quot; target=&quot;_blank&quot;&gt;Redux&lt;/a&gt; - an implementation of &lt;a href=&quot;https://facebook.github.io/flux/&quot; target=&quot;_blank&quot;&gt;Flux architecture&lt;/a&gt; created by Facebook - is often used to organise application code by using a strict data flow in one direction only. Redux is UI agnostic, and can be used in conjunction with any UI library. As a continuation of our chess game tutorial with React, we show how to extract the entire program state out of React components, store it with Redux, and test it with N4JS. The full tutorial is available at &lt;a href=&quot;https://www.eclipse.org/n4js/userguides/n4js-tutorial-chess/n4js-tutorial-chess-redux.html&quot; target=&quot;_blank&quot;&gt;eclipse.org/n4js&lt;/a&gt; and the sources can be found at &lt;a href=&quot;https://github.com/Eclipse/n4js-tutorials&quot; target=&quot;_blank&quot;&gt;github.com/Eclipse/n4js-tutorials&lt;/a&gt;.&lt;/b&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div class=&quot;&quot; style=&quot;clear: both; text-align: left;&quot;&gt;The first part of the chess game tutorial discussed how to develop a chess game app with React and JSX in N4JS. We have stored the program state - which for instance contains information about the locations of all chess pieces - in the state of the React components directly. As applications become larger, however, the mix of program state and UI makes the application hard to comprehend and difficult to test. To address these issues, we extract the program state from the UI components in the second part of the tutorial.&lt;/div&gt;&lt;div class=&quot;&quot; style=&quot;clear: both;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;div class=&quot;&quot; style=&quot;clear: both;&quot;&gt;When using React with Redux, we store the application state in Redux store instead of the state of React components. As a result, React components become stateless UI elements and simply render the UI using the data retrieved from the Redux store. In a Redux architecture, data flows strictly in one direction. The diagram below graphically depicts the action/data flow in a React/Redux app.&lt;/div&gt;&lt;br /&gt;&lt;div class=&quot;&quot; style=&quot;clear: both; text-align: left;&quot;&gt;&lt;table align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-5lmZGp63Rzk/XS2KIsXiUFI/AAAAAAAAAMI/sb8v_jGp0Q8IvVyiNXH7XrcjVTeeiB7OACLcBGAs/s1600/redux-architecture.png&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;&gt;&lt;img border=&quot;0&quot; height=&quot;200&quot; src=&quot;https://1.bp.blogspot.com/-5lmZGp63Rzk/XS2KIsXiUFI/AAAAAAAAAMI/sb8v_jGp0Q8IvVyiNXH7XrcjVTeeiB7OACLcBGAs/s1600/redux-architecture.png&quot; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;tr-caption&quot; style=&quot;text-align: center;&quot;&gt;Strict data flow of flux architecture application&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;The action/data flow in the diagram can be roughly understood as follows:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;When a user interaction is triggered on the React component (e.g. button clicked, text field edited etc.), an action is created. The action describes the changes needed to be updated in the application state. For instance, when a text field is edited, the action created may contain the new string of the text field.&lt;/li&gt;&lt;li&gt;Then the action is dispatched to the Redux store whereby the Redux store stores the application state, usually as a hierarchical tree of state.&lt;/li&gt;&lt;li&gt;The reducers take the action and the current application state and create an updated application state.&lt;/li&gt;&lt;li&gt;If the changes in the application state are to a certain React component, they are forwarded into the component in form of props. The change in props causes the component to re-render.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;In the second part of the tutorial we further elaborate on the interaction of React and Redux and migrate the original chess non-Redux app. The tutorial explains the role of the reducer, and how the game state is stored and maintained in the Redux store. Based on storing the game using Redux, the tutorial shows how to test the game application with the N4JS test library &lt;i&gt;Mangelhaft&lt;/i&gt;, by for instance checking that valid move destination squares are updated after a chess piece was selected.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;Note that the way of testing the game logics is completely UI-agnostic and no React components are involved at all. This is thanks to the decoupling of game logics from UI with the help of Redux.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;by Minh Quang Tran&lt;/span&gt;&lt;/div&gt;</description>
-	<pubDate>Thu, 29 Aug 2019 16:04:16 +0000</pubDate>
-	<author>noreply@blogger.com (n4js dev)</author>
 </item>
 
 </channel>
