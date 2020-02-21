@@ -2,10 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:orientation="vertical"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
-
 
 
     <Spinner
@@ -20,8 +19,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Geben Sie den Fräserdurchmesser ein [mm]"
-        android:padding="15dp"/>
+        android:padding="15dp"
+        android:text="Geben Sie den Fräserdurchmesser ein [mm]" />
 
     <EditText
         android:id="@+id/durchmesser"
@@ -29,13 +28,13 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="number"
-        android:text = "0"/>
+        android:text="0" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Wählen Sie den zu bearbeitenden Werkstoff "
-        android:padding="15dp"/>
+        android:padding="15dp"
+        android:text="Wählen Sie den zu bearbeitenden Werkstoff " />
 
     <CheckBox
         android:id="@+id/gehartet"
@@ -65,8 +64,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Wollen Sie Schruppen oder Schlichten? "
-        android:padding="15dp"/>
+        android:padding="15dp"
+        android:text="Wollen Sie Schruppen oder Schlichten? " />
 
     <CheckBox
         android:id="@+id/schrup"
@@ -85,8 +84,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:padding="30dp"
-        android:hint="Drehzahl" />
+        android:hint="Drehzahl"
+        android:padding="30dp" />
 
     <Button
         android:id="@+id/clear"
