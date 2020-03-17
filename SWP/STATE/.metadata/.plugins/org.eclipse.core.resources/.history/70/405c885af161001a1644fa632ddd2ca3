@@ -1,0 +1,41 @@
+import java.util.Scanner;
+
+public class Input {
+
+	
+	private static Input instance; 
+	
+	private Input () {
+		Scanner scanner = new Scanner(System.in); 
+	}
+	
+	
+	public static Input getInstance () {
+		
+		if (instance == null) {
+			instance = new Input(); 
+		}
+		
+		return instance; 
+	}
+	
+	
+	public String scan(String n) {
+		 
+		
+		String input = scanner.nextLine();
+		scanner.close();
+		return input; 
+		
+	}
+	
+	public int scan(int n) {
+		
+		Scanner scanner = new Scanner(System.in); 
+		
+		int input = scanner.nextInt();
+		scanner.close();
+		return input; 
+		
+	}
+}

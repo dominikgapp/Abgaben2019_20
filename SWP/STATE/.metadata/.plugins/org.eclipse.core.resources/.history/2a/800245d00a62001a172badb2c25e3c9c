@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class State3 implements IState {
+
+	@Override
+	public void goNext(Context context) {
+		
+		 
+		System.out.println("Bitte erklären Sie ihre Symptome.");
+		
+		String symptome = Input.getInstance().scan("g"); 
+		
+		
+		if(symptome.length() < 20) {
+			System.out.println("Diese Beschreibung ist zu ungenau!");
+			context.setState(new State3());
+		}else if (symptome.length() > 30) {
+			System.out.println("Eingabe erfolgreich, fast fertig.");
+			System.out.println();
+			context.setState(new State4());
+		}
+		
+	}
+
+} 

@@ -1,0 +1,20 @@
+
+public class Input {
+
+	
+	private static Input instance; 
+	
+	private Input () {
+		
+	}
+	
+	
+	public static Input getInstance () {
+		
+		if (instance == null) {
+			instance = new Input(); 
+		}
+		
+		return instance; 
+	}
+}

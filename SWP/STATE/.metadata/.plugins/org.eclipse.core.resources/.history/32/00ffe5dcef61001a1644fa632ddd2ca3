@@ -1,0 +1,21 @@
+
+public class Scanner {
+
+	private static Scanner instance; 
+	
+	
+	private Scanner () {
+		
+	}
+	
+	
+	
+	public static Scanner getInstance() {
+
+		if (instance == null) {
+			instance = new Scanner (); 
+		}
+		
+		return instance; 
+	}
+}

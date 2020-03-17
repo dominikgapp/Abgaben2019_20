@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class State4 implements IState {
+
+	@Override
+	public void goNext(Context context) {
+		
+		Scanner scanner = new Scanner(System.in); 
+		System.out.println("Geben Sie ihre Versicherungsnummer an. ");
+		
+		String number = scanner.nextLine(); 
+		
+		scanner.close();
+		
+		if (number.length() == 10 || number.length() == 11) {
+			System.out.println("Vielen Dank, Nehmen Sie im Wartezimmer Platz.");
+			context.setState(new State1());
+			//context.setrunning(false);
+		} else {
+			System.out.println("Überprüfen Sie ihre eingabe.");
+			System.out.println();
+			context.setState(new State4());
+		}
+			
+		
+	}
+
+}

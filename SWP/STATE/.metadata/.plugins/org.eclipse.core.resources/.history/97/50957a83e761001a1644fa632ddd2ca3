@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class State3 implements IState {
+
+	@Override
+	public void goNext(Context context) {
+		
+		Scanner scanner = new Scanner(System.in); 
+		System.out.println("Bitte erklären Sie ihre Symptome.");
+		
+		String symptome = scanner.nextLine();
+		
+		if(symptome.length() < 20)
+		
+	}
+
+} 

@@ -1,0 +1,10 @@
+
+public class State1 implements IState {
+
+	@Override
+	public void goNext(Context context) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

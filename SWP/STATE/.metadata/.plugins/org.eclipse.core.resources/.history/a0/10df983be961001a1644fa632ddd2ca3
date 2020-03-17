@@ -1,0 +1,12 @@
+
+public class Main {
+	
+	
+	public static void main(String[] args) {
+		
+		String a = "3611 261000"; 
+		
+		System.out.println(a.length());
+	}
+
+}

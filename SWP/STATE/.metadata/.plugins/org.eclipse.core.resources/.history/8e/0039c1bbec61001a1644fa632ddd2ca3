@@ -1,0 +1,36 @@
+
+public class Context {
+
+	
+	private IState state; 
+	public boolean isrunning = true; 
+	
+	
+	public Context () {
+		
+		this.state = new State1(); 
+	}
+	
+	
+	public void setState (IState state) {
+		
+		this.state = state; 
+	
+	}
+	
+	
+	
+	public void advance () {
+		state.goNext(this);
+	}
+	
+	
+	public void setIsrunning(boolean isrunning) {
+		this.isrunning = isrunning;
+	}
+	
+	public boolean isIsrunning() {
+		return isrunning;
+	}
+	
+}

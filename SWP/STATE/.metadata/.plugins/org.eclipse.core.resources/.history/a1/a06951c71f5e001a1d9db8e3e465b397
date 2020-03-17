@@ -1,0 +1,26 @@
+import java.util.Scanner;
+import java.util.regex.Pattern;
+
+public class State1 implements IState {
+
+	@Override
+	public void goNext(Context context) {
+		
+		Scanner scanner = new Scanner(System.in); 
+		System.out.println("Grüß Gott, bitte geben Sie ihren Vornamen und Nachnamen an.");
+		
+		String name = scanner.nextLine(); 
+		
+		
+		
+	
+		
+	}
+	
+	
+	public boolean containsNumber (String input) {
+		
+		return Pattern.compile( "[0-9]" ).matcher( input ).find();
+	}
+
+}
