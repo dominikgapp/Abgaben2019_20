@@ -1,0 +1,17 @@
+
+public class TakeShirtCommand implements ICommand {
+ 
+	Stock stock; 
+	
+	public TakeShirtCommand (Stock s) {
+		this.stock = s; 
+	}
+	
+	
+	public void execute() {
+		stock.takeOne();	
+	}
+	
+	
+
+}

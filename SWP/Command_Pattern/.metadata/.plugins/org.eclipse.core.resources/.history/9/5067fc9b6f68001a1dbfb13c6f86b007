@@ -1,0 +1,15 @@
+
+public class AddShirtCommand implements ICommand {
+	
+	Stock stock; 
+	
+	public AddShirtCommand (Stock s) {
+		this.stock = s; 	
+	}
+	
+	
+	public void execute () {
+		stock.addOne();
+	}
+
+}

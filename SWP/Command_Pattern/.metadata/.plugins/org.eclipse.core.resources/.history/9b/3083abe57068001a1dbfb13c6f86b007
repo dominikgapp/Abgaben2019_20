@@ -1,0 +1,9 @@
+
+public class Client {
+	
+	Stock stock = new Stock(); 
+	
+	ICommand takeShirt = new TakeShirtCommand(stock); 
+	ICommand addShirt = new AddShirtCommand(stock); 
+	
+}

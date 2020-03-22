@@ -1,0 +1,21 @@
+
+public class Client {
+	
+	public static void main(String[] args) {
+		
+	
+	Stock stock = new Stock(); 
+	
+	ICommand takeShirt = new TakeShirtCommand(stock); 
+	ICommand addShirt = new AddShirtCommand(stock); 
+	
+	Invoker Lager = new Invoker(); 
+	
+	
+	System.out.println(stock.getStock());
+	Lager.setCommand(addShirt);
+	Lager.executeCommand();
+	System.out.println(stock.getStock());
+	
+	}
+}

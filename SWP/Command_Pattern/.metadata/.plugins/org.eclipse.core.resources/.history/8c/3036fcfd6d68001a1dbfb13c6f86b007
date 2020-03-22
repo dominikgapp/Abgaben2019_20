@@ -1,0 +1,11 @@
+
+public class TakeShirtCommand implements ICommand {
+
+	
+	public void execute() {
+		
+	}
+	
+	
+
+}
