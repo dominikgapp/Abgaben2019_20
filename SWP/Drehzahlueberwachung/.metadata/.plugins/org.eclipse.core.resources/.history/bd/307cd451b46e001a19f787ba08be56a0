@@ -1,0 +1,25 @@
+
+public class Observer implements IObserver{
+
+	private int limit; 
+	
+	
+	public Observer(int i) {
+		this.limit = i; 
+	}
+	
+	@Override
+	public int getLimit() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void update(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+}

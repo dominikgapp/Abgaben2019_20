@@ -1,0 +1,15 @@
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		
+		Observer observer = new Observer(6000); 
+		Observable rotSpeed = new Observable(); 
+		
+		rotSpeed.addSubscriber(observer);
+		
+		
+	}
+
+}
