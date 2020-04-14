@@ -1,0 +1,50 @@
+usage: java org.apache.catalina.startup.Catalina [ -config {pathname} ] [ -nonaming ] { -help | start | stop }
+12-Sep-2019 17:26:45.606 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log 
+ Server Version:        Apache Tomcat/9.0.24
+12-Sep-2019 17:26:45.624 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 14 2019 21:16:42 UTC
+12-Sep-2019 17:26:45.624 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.24.0
+12-Sep-2019 17:26:45.624 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+12-Sep-2019 17:26:45.624 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.11.6
+12-Sep-2019 17:26:45.624 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Architektur:          x86_64
+12-Sep-2019 17:26:45.624 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+12-Sep-2019 17:26:45.625 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+12-Sep-2019 17:26:45.625 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Hersteller:            Oracle Corporation
+12-Sep-2019 17:26:45.625 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log 
+ CATALINA_BASE:         /Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24
+12-Sep-2019 17:26:45.626 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24
+12-Sep-2019 17:26:45.656 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/users/dominikgapp/desktop/infi-web/apache-tomcat-9.0.24/conf/logging.properties
+12-Sep-2019 17:26:45.657 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Sep-2019 17:26:45.657 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Sep-2019 17:26:45.657 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Sep-2019 17:26:45.657 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+12-Sep-2019 17:26:45.657 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Sep-2019 17:26:45.658 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/users/dominikgapp/desktop/infi-web/apache-tomcat-9.0.24
+12-Sep-2019 17:26:45.658 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/users/dominikgapp/desktop/infi-web/apache-tomcat-9.0.24
+12-Sep-2019 17:26:45.658 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/users/dominikgapp/desktop/infi-web/apache-tomcat-9.0.24/temp
+12-Sep-2019 17:26:45.659 INFORMATION [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/dominikgapp/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+12-Sep-2019 17:26:46.934 INFORMATION [main] org.apache.coyote.AbstractProtocol.init Initialisiere ProtocolHandler["http-nio-8080"]
+12-Sep-2019 17:26:47.050 INFORMATION [main] org.apache.coyote.AbstractProtocol.init Initialisiere ProtocolHandler["ajp-nio-8009"]
+12-Sep-2019 17:26:47.056 INFORMATION [main] org.apache.catalina.startup.Catalina.load Server initialization in [1.973] milliseconds
+12-Sep-2019 17:26:47.130 INFORMATION [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Sep-2019 17:26:47.130 INFORMATION [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.24]
+12-Sep-2019 17:26:47.141 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/docs]
+12-Sep-2019 17:26:47.523 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/docs] has finished in [382] ms
+12-Sep-2019 17:26:47.523 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/examples]
+12-Sep-2019 17:26:47.874 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/examples] has finished in [351] ms
+12-Sep-2019 17:26:47.875 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/host-manager]
+12-Sep-2019 17:26:47.913 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/host-manager] has finished in [38] ms
+12-Sep-2019 17:26:47.915 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/manager]
+12-Sep-2019 17:26:47.947 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/manager] has finished in [32] ms
+12-Sep-2019 17:26:47.948 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/ROOT]
+12-Sep-2019 17:26:47.970 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/dominikgapp/Desktop/INFI-WEB/apache-tomcat-9.0.24/webapps/ROOT] has finished in [23] ms
+12-Sep-2019 17:26:47.974 INFORMATION [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Sep-2019 17:26:47.983 INFORMATION [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Sep-2019 17:26:47.986 INFORMATION [main] org.apache.catalina.startup.Catalina.start Server startup in [929] milliseconds
+12-Sep-2019 17:27:29.803 INFORMATION [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+12-Sep-2019 17:27:29.803 INFORMATION [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+12-Sep-2019 17:27:29.816 INFORMATION [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+12-Sep-2019 17:27:29.823 INFORMATION [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+12-Sep-2019 17:27:29.874 INFORMATION [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+12-Sep-2019 17:27:29.883 INFORMATION [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+12-Sep-2019 17:27:29.885 INFORMATION [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+12-Sep-2019 17:27:29.886 INFORMATION [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

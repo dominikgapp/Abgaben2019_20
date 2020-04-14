@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/dominikgapp/Desktop/SWP-WEB/test/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1019928453.index
+763289425.index
+1512202327.index
+2004230063.index
+856640125.index
+982390320.index
+1281353762.index

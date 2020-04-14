@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/dominikgapp/Desktop/SWP-WEB/Kommentarseite/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1306909744.index
+2118016343.index
+1555043817.index
+3430028413.index
+2802176023.index
+20326997.index

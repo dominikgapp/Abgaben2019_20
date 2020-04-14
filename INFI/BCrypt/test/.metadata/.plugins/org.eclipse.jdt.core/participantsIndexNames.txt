@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/dominikgapp/Desktop/SWP-WEB/test/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1512202327.index
+/bsp1/src
